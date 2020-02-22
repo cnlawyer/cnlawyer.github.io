@@ -44,6 +44,21 @@
     </item>
     
     <item>
+      <title>Hugo首页中文文章输出文字增加断字功能</title>
+      <link>https://cnlawyer.github.io/post/hugo-shou-ye-wen-zhang-duan-zi/</link>
+      <pubDate>Sat, 15 Feb 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/hugo-shou-ye-wen-zhang-duan-zi/</guid>
+      
+        <description>&lt;p&gt;在HUGO首页输出中，采用的是默认的英文断字显示，对于中文来说，会显示的较短，实现断字采用的是Summary语法判断，具体的可以前往官方说明：https://gohugo.io/content-management/summaries/#hugo-defined-automatic-summary-splitting , 其实给中文文章增加字数限制输出的功能是很简单的，在config.toml找到paginate，在下面另起一行，输入以下代码：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;summaryLength = 100
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;后面的数字可以根据自已的需要进行设置。&lt;/p&gt;
+&lt;p&gt;如果不想断字，在首页都是全文输出展示，则在config.toml找到homeFullContent项，将false改成true即可。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>日本北海道: 薄雾笼罩的河流中的丹顶鹤</title>
       <link>https://cnlawyer.github.io/post/bao-wu-zhong-de-dan-ding-he/</link>
       <pubDate>Sat, 15 Feb 2020 16:01:23 +0800</pubDate>

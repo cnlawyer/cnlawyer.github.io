@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Hugo首页中文文章输出文字增加断字功能</title>
+      <link>https://cnlawyer.github.io/post/hugo-shou-ye-wen-zhang-duan-zi/</link>
+      <pubDate>Sat, 15 Feb 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/hugo-shou-ye-wen-zhang-duan-zi/</guid>
+      <description>在HUGO首页输出中，采用的是默认的英文断字显示，对于中文来说，会显示的较短，实现断字采用的是Summary语法判断，具体的可以前往官方说明</description>
+    </item>
+    
+    <item>
       <title>日本北海道: 薄雾笼罩的河流中的丹顶鹤</title>
       <link>https://cnlawyer.github.io/post/bao-wu-zhong-de-dan-ding-he/</link>
       <pubDate>Sat, 15 Feb 2020 16:01:23 +0800</pubDate>
