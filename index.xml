@@ -6,10 +6,22 @@
     <description>Recent content on 金言的布拉格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 16:01:23 +0800</lastBuildDate>
     
         <atom:link href="https://cnlawyer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>九民纪要理解与适用</title>
+      <link>https://cnlawyer.github.io/post/jiu-min-ji-yao/</link>
+      <pubDate>Fri, 14 Feb 2020 09:20:23 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/jiu-min-ji-yao/</guid>
+      
+        <description>&lt;p&gt;全国法院民商事审判工作会议纪要 &amp;ndash; 理解与适用&lt;/p&gt;
+</description>
+      
+    </item>
     
     <item>
       <title>About</title>
@@ -27,6 +39,33 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>日本北海道: 薄雾笼罩的河流中的丹顶鹤</title>
+      <link>https://cnlawyer.github.io/post/bao-wu-zhong-de-dan-ding-he/</link>
+      <pubDate>Sat, 15 Feb 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/bao-wu-zhong-de-dan-ding-he/</guid>
+      
+        <description>&lt;p&gt;在1935年8月27日起钏路湿地还特意划分了2700公顷的区域作为“钏路丹顶鹤繁殖地”供其使用。丹顶鹤长年都会在这里栖息。拥有漂亮洁白的羽毛，高贵体态的丹顶鹤从古至今都被称之为神圣之鸟。在爱努语里丹顶鹤更被称之为“湿地之神”。观赏丹顶鹤的最佳时期是1—3月，丹顶鹤于雪中飞舞之景象可谓世间绝景。春天是浓绿的、秋天是金黄的、冬天是雪白的，这里是丹顶鹤等野生鸟类的栖息乐园。&lt;/p&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cnlawyer.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://cnlawyer.github.io/image/bao-wu-zhong-de-dan-ding-he.jpg&#34; alt=&#34;薄雾笼罩的河流中的丹顶鹤&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://cnlawyer.github.io/image/bao-wu-zhong-de-dan-ding-he.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;薄雾笼罩的河流中的丹顶鹤&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
 </description>
       
     </item>
