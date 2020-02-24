@@ -6,6 +6,7 @@
     <description>Recent content in 代码 on 金言的布拉格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <copyright>金言的博客</copyright>
     <lastBuildDate>Sat, 15 Feb 2020 16:01:23 +0800</lastBuildDate>
     
 	<atom:link href="https://cnlawyer.github.io/tags/%E4%BB%A3%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +18,7 @@
       <pubDate>Sat, 15 Feb 2020 16:01:23 +0800</pubDate>
       
       <guid>https://cnlawyer.github.io/post/hugo-shou-ye-wen-zhang-duan-zi/</guid>
-      <description>在HUGO首页输出中，采用的是默认的英文断字显示，对于中文来说，会显示的较短，实现断字采用的是Summary语法判断，具体的可以前往官方说明</description>
+      <description>在HUGO首页输出中，采用的是默认的英文断字显示，对于中文来说，会显示的较短，实现断字采用的是Summary语法判断，具体的可以前往官方说明：https://gohugo.io/content-management/summaries/#h</description>
     </item>
     
   </channel>
