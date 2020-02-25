@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金言的博客</copyright>
-    <lastBuildDate>Tue, 25 Feb 2020 12:25:55 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 16:45:55 +0800</lastBuildDate>
     
         <atom:link href="https://cnlawyer.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,6 +40,29 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>九民纪要之合同解除后的法律后果</title>
+      <link>https://cnlawyer.github.io/post/he-tong-jie-chu-hou-de-fa-l%C3%BC-hou-guo/</link>
+      <pubDate>Tue, 25 Feb 2020 16:45:55 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/he-tong-jie-chu-hou-de-fa-l%C3%BC-hou-guo/</guid>
+      
+        <description>&lt;p&gt;​	## 条文主旨&lt;/p&gt;
+&lt;p&gt;​	民纪要采取的观点是违约金、约定损害赔偿的计算方法、定金责任条款在性质上属于“合同中结算和清理条款”，依据《合同法》第９８条的规定，&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;并不因合同的解除而影响其效力&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;，换言之，在合同解除后，违约金、约定损害赔偿的计算方法、定金责任仍然独立生效。&lt;/p&gt;
+&lt;p&gt;​	## 理解与适用&lt;/p&gt;
+&lt;p&gt;​	一、规定合同解除不影响合同中有关违约金、约定损害赔偿的计算方式、定金责任等违约责任条款的效力。&lt;/p&gt;
+&lt;p&gt;​	二、合同解除后在确定赔偿损失的范围时，应当坚持充分保护守约方利益以及对违约方进行适当惩罚的原则。
+这里九民纪要主张的是赔偿可得利益说，即合同解除与损失赔偿都是违约的救济措施，因此在两者并存的情况下，损失赔偿的范围应为可得利益，即合同正常履行时，当事人可以获得的利益，&lt;!-- raw HTML omitted --&gt;包括当事人的缔约费用。履约准备费用等必要交易成本也称为信赖利益以及合同履行后可以获得的利益&lt;!-- raw HTML omitted --&gt;。&lt;/p&gt;
+&lt;p&gt;​	三、双务合同解除时人民法院负有一定的释明义务，具体程序和要求参照确认合同无效的相关规定处理。&lt;/p&gt;
+&lt;p&gt;​	## 实务问题&lt;/p&gt;
+&lt;p&gt;​	假如当事人仅就合同的解除达成协议，但没有就具体约定损害赔偿达成协议的，当事人向法院起诉要求损害赔偿的，法院应当允许，&lt;!-- raw HTML omitted --&gt;不能以默示的方式排除当事人对损害赔偿的请求权&lt;!-- raw HTML omitted --&gt;。&lt;/p&gt;
+&lt;p&gt;​	## 典型案例&lt;/p&gt;
+&lt;p&gt;​	李某某、刘某某民间借贷纠纷案【（2016）最高法民终435号】&lt;/p&gt;
+&lt;p&gt;​	裁判要旨：关于违约金责任，根据《合同法》第97条的规定，在违约解除的情况下，守约方在解除合同后有权要求赔偿损失，这里的赔偿损失，在性质上系违约方应承担的违约责任。在此前提下，根据买卖合同司法解释第26条，在当事人约定违约金条款的情况下，&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;违约金责任是可以与赔偿损失的违约责任并存的&lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;。不仅可以用于买卖合同，也可以用于借款合同。&lt;/p&gt;
 </description>
       
     </item>
