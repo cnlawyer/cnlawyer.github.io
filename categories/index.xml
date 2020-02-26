@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金言的博客</copyright>
-    <lastBuildDate>Tue, 25 Feb 2020 20:10:34 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 20:10:34 +0800</lastBuildDate>
     
 	<atom:link href="https://cnlawyer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>码农</title>
+      <link>https://cnlawyer.github.io/categories/%E7%A0%81%E5%86%9C/</link>
+      <pubDate>Wed, 26 Feb 2020 20:10:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/categories/%E7%A0%81%E5%86%9C/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>物权法</title>
@@ -31,6 +40,15 @@
     </item>
     
     <item>
+      <title>随笔</title>
+      <link>https://cnlawyer.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Tue, 25 Feb 2020 12:25:55 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/categories/%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>法考</title>
       <link>https://cnlawyer.github.io/categories/%E6%B3%95%E8%80%83/</link>
       <pubDate>Mon, 24 Feb 2020 20:56:34 +0800</pubDate>
@@ -40,20 +58,11 @@
     </item>
     
     <item>
-      <title>码农</title>
-      <link>https://cnlawyer.github.io/categories/%E7%A0%81%E5%86%9C/</link>
-      <pubDate>Sat, 15 Feb 2020 16:01:23 +0800</pubDate>
+      <title>法律</title>
+      <link>https://cnlawyer.github.io/categories/%E6%B3%95%E5%BE%8B/</link>
+      <pubDate>Fri, 21 Feb 2020 20:56:34 +0800</pubDate>
       
-      <guid>https://cnlawyer.github.io/categories/%E7%A0%81%E5%86%9C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>随笔</title>
-      <link>https://cnlawyer.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
-      <pubDate>Sat, 15 Feb 2020 16:01:23 +0800</pubDate>
-      
-      <guid>https://cnlawyer.github.io/categories/%E9%9A%8F%E7%AC%94/</guid>
+      <guid>https://cnlawyer.github.io/categories/%E6%B3%95%E5%BE%8B/</guid>
       <description></description>
     </item>
     
@@ -63,15 +72,6 @@
       <pubDate>Fri, 14 Feb 2020 09:20:23 +0800</pubDate>
       
       <guid>https://cnlawyer.github.io/categories/%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>法律</title>
-      <link>https://cnlawyer.github.io/categories/%E6%B3%95%E5%BE%8B/</link>
-      <pubDate>Fri, 14 Feb 2020 09:20:23 +0800</pubDate>
-      
-      <guid>https://cnlawyer.github.io/categories/%E6%B3%95%E5%BE%8B/</guid>
       <description></description>
     </item>
     
