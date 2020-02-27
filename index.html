@@ -57,12 +57,14 @@
 
 
 
+<link rel="stylesheet" href="/css/custom.css">
+
 
 <meta property="og:title" content="金言的布拉格" />
 <meta property="og:description" content="读好书，用好书，书会扩展格局和视线，读用是不断积累和学习的过程，厚积而薄发。所读过的书会在工作中内化。" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://cnlawyer.github.io/" />
-<meta property="og:updated_time" content="2020-02-26T20:10:34+08:00" />
+<meta property="og:updated_time" content="2020-02-27T14:01:23+08:00" />
 <meta itemprop="name" content="金言的布拉格">
 <meta itemprop="description" content="读好书，用好书，书会扩展格局和视线，读用是不断积累和学习的过程，厚积而薄发。所读过的书会在工作中内化。"><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="金言的布拉格"/>
@@ -338,6 +340,70 @@
   <header class="post-header">
     <h1 class="post-title">
       
+      <a class="post-link" href="/post/syntax-highlighting/">Hugo高亮短代码测试：Syntax Highlighting</a>
+    </h1>
+    
+    <div class="post-meta">
+      <time datetime="2020-02-27" class="post-time">
+        2020-02-27
+      </time>
+      <div class="post-category">
+          <a href="https://cnlawyer.github.io/categories/%E7%A0%81%E5%86%9C/"> 码农 </a>
+          
+        </div>
+      
+      
+      
+    </div>
+  </header>
+  
+  <div class="post-content">
+    
+    <div class="post-summary">
+      <p>Hugo代码高亮测试，支持多种编程语言，自动识别并触发，配合css输出，实行比较友好的代码前端输出，支持代码按行数自动显示。配置的方法是在config.toml第15行左右的下面增加如下配置进行触发，如果添加后前端没有显示，而后是背景为黑色并且没有行号的话，需要在控制里将true改为false保存刷新，然后再将false改回true即可渲染出来。
+代码如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nv">PygmentsCodeFences</span> <span class="o">=</span> <span class="nb">true</span> <span class="c1"># Enable syntax highlighting with GitHub flavoured code fences</span>
+<span class="nv">PygmentsUseClasses</span> <span class="o">=</span> <span class="nb">true</span> <span class="c1"># Use CSS classes to format highlighted code</span>
+<span class="nv">PygmentsCodefencesGuessSyntax</span> <span class="o">=</span> <span class="nb">true</span>
+<span class="nv">PygmentsOptions</span> <span class="o">=</span> <span class="s2">&#34;linenos=table&#34;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p><strong>以下为各种语言的代码高亮示例：</strong></p>
+<p>More detail: <a href="https://gohugo.io/content-management/syntax-highlighting/">Syntax Highlighting | Hugo</a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-js" data-lang="js"><span class="kd">function</span> <span class="nx">helloWorld</span> <span class="p">(</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">alert</span><span class="p">(</span><span class="s2">&#34;Hello, World!&#34;</span><span class="p">)</span>
+<span class="p">}</span>
+</code></pre></td></tr></table>
+</div>
+</div>
+    </div>
+    <div class="read-more">
+      <a href="/post/syntax-highlighting/" class="read-more-link">阅读全文</a>
+    </div>
+    
+  </div>
+</article>
+
+  
+    <article class="post bg-white">
+  <header class="post-header">
+    <h1 class="post-title">
+      
       <a class="post-link" href="/post/coding-ssh-mi-yao/">Coding 添加SSH密钥</a>
     </h1>
     
@@ -436,40 +502,6 @@
 </article>
 
   
-    <article class="post bg-white">
-  <header class="post-header">
-    <h1 class="post-title">
-      
-      <a class="post-link" href="/post/qin-zi-jiao-yu-one/">面对孩子的功课辅导有时很难过</a>
-    </h1>
-    
-    <div class="post-meta">
-      <time datetime="2020-02-25" class="post-time">
-        2020-02-25
-      </time>
-      <div class="post-category">
-          <a href="https://cnlawyer.github.io/categories/%E9%9A%8F%E7%AC%94/"> 随笔 </a>
-          
-        </div>
-      
-      
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    
-    <div class="post-summary">
-      做为父母，我们都很想多尽一点力量，去帮助孩子成长，比如说功课辅导，晚安小区里经常能听到不远处传来的家长对着小孩咆哮的声音，我家也不例外。每次咆哮之后，孩子想哭，家长想死，平息之后互相妥协，没过两天，同样的情况又会出现。不停的懊恼和自责，试图找导里面的大BUG予以修复，建立起更健康的家庭关系，但我们是
-    </div>
-    <div class="read-more">
-      <a href="/post/qin-zi-jiao-yu-one/" class="read-more-link">阅读全文</a>
-    </div>
-    
-  </div>
-</article>
-
-  
 </section>
 
 
@@ -501,6 +533,10 @@
       
       <li >
         <a href="/page/2/">2</a>
+      </li>
+      
+      <li >
+        <a href="/page/3/">3</a>
       </li>
       
     </ul>
@@ -627,6 +663,8 @@
 
 
 
+
+  <script src="/js/custom.js"></script>
 
 
 </body>

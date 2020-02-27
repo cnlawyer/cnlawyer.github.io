@@ -1,0 +1,174 @@
+---
+title: "Hugo高亮短代码测试：Syntax Highlighting"
+date: 2020-02-27T14:01:23+08:00
+draft: false
+tags: ["hugo", "代码高亮"]
+categories: ["码农"]
+
+toc: true
+
+---
+Hugo代码高亮测试，支持多种编程语言，自动识别并触发，配合css输出，实行比较友好的代码前端输出，支持代码按行数自动显示。配置的方法是在config.toml第15行左右的下面增加如下配置进行触发，如果添加后前端没有显示，而后是背景为黑色并且没有行号的话，需要在控制里将true改为false保存刷新，然后再将false改回true即可渲染出来。
+代码如下：
+````bash
+PygmentsCodeFences = true # Enable syntax highlighting with GitHub flavoured code fences
+PygmentsUseClasses = true # Use CSS classes to format highlighted code
+PygmentsCodefencesGuessSyntax = true
+PygmentsOptions = "linenos=table"
+````
+
+More detail: [Syntax Highlighting | Hugo](https://gohugo.io/content-management/syntax-highlighting/)
+
+```js
+function helloWorld () {
+  alert("Hello, World!")
+}
+```
+
+<!--more-->
+
+```java
+public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello, World!");
+  }
+}
+```
+
+```kotlin
+package hello
+
+fun main(args: Array<String>) {
+  println("Hello World!")
+}
+```
+
+```c
+#include <stdio.h>
+
+/* Hello */
+int main(void){
+  printf("Hello, World!");
+  return 0;
+}
+```
+
+```cpp
+// 'Hello World!' program
+
+#include <iostream>
+
+int main(){
+  std::cout << "Hello World!" << std::endl;
+  return 0;
+}
+```
+
+```cs
+using System;
+class HelloWorld{
+  public static void Main(){
+    System.Console.WriteLine("Hello, World!");
+  }
+}
+```
+
+```html
+<html>
+<body>
+  Hello, World!
+</body>
+</html>
+```
+
+```go
+package main
+import fmt "fmt"
+
+func main()
+{
+   fmt.Printf("Hello, World!\n");
+}
+```
+
+```scala
+object HelloWorld with Application {
+  Console.println("Hello, World!");
+}
+```
+
+```php
+<?php
+  echo 'Hello, World!';
+?>
+```
+
+```python
+print("Hello, World!")
+```
+
+## no named code block
+
+```
+## this is a comment
+$ echo this is a command
+this is a command
+
+## edit the file
+$vi foo.md
++++
+date = "2014-09-28"
+title = "creating a new theme"
++++
+
+bah and humbug
+:wq
+
+## show it
+$ cat foo.md
++++
+date = "2014-09-28"
+title = "creating a new theme"
++++
+
+bah and humbug
+$
+```
+
+
+## highlight shortcode
+
+example:
+
+```shortcode
+{{</* highlight go "linenos=table,hl_lines=8 15-17,linenostart=199" */>}}
+// ... code
+{{</* /highlight */>}}
+```
+
+result:
+
+{{< highlight go "linenos=table,hl_lines=8 15-17,linenostart=199" >}}
+// GetTitleFunc returns a func that can be used to transform a string to
+// title case.
+//
+// The supported styles are
+//
+// - "Go" (strings.Title)
+// - "AP" (see https://www.apstylebook.com/)
+// - "Chicago" (see http://www.chicagomanualofstyle.org/home.html)
+//
+// If an unknown or empty style is provided, AP style is what you get.
+func GetTitleFunc(style string) func(s string) string {
+  switch strings.ToLower(style) {
+  case "go":
+    return strings.Title
+  case "chicago":
+    tc := transform.NewTitleConverter(transform.ChicagoStyle)
+    return tc.Title
+  default:
+    tc := transform.NewTitleConverter(transform.APStyle)
+    return tc.Title
+  }
+}
+{{< /highlight >}}

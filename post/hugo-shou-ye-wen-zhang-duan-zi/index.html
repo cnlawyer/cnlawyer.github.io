@@ -57,6 +57,8 @@
 
 
 
+<link rel="stylesheet" href="/css/custom.css">
+
 
 <meta property="og:title" content="Hugo首页中文文章输出文字增加断字功能" />
 <meta property="og:description" content="Hugo首页文字输出断字默认采用的是英文的断字功能，一般是70左右，这篇文章是如何给首页中文文章增加自定义断字功能" />
@@ -68,7 +70,7 @@
 <meta itemprop="description" content="Hugo首页文字输出断字默认采用的是英文的断字功能，一般是70左右，这篇文章是如何给首页中文文章增加自定义断字功能">
 <meta itemprop="datePublished" content="2020-02-15T16:01:23&#43;08:00" />
 <meta itemprop="dateModified" content="2020-02-15T16:01:23&#43;08:00" />
-<meta itemprop="wordCount" content="310">
+<meta itemprop="wordCount" content="311">
 
 
 
@@ -330,8 +332,15 @@
     
     <div class="post-content">
       <p>在HUGO首页输出中，采用的是默认的英文断字显示，对于中文来说，会显示的较短，实现断字采用的是Summary语法判断，具体的可以前往官方说明：https://gohugo.io/content-management/summaries/#hugo-defined-automatic-summary-splitting , 其实给中文文章增加字数限制输出的功能是很简单的，在config.toml找到paginate，在下面另起一行，输入以下代码：</p>
-<pre><code>summaryLength = 100
-</code></pre><p>后面的数字可以根据自已的需要进行设置。</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">summaryLength = 100
+</code></pre></td></tr></table>
+</div>
+</div><p>后面的数字可以根据自已的需要进行设置。</p>
 <p>如果不想断字，在首页都是全文输出展示，则在config.toml找到homeFullContent项，将false改成true即可。</p>
 
     </div>
@@ -566,6 +575,8 @@
 
 
 
+
+  <script src="/js/custom.js"></script>
 
 
 </body>
