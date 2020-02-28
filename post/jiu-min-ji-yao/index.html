@@ -52,11 +52,6 @@
 
 
 
-<link rel="stylesheet" href="/sass/jane.min.af20b78e95c84de86b00a0242a4a77bd2601700e1b250edf27537d957ac0041d.css" integrity="sha256-ryC3jpXITehrAKAkKkp3vSYBcA4bJQ7fJ1N9lXrABB0=" media="screen" crossorigin="anonymous">
-
-
-
-
 <link rel="stylesheet" href="/css/custom.css">
 
 
@@ -674,8 +669,8 @@
       <nav class="post-nav">
         
         
-          <a class="next" href="/post/2020-min-shi-su-song-zheng-ju/">
-            <span class="next-text nav-default">2020年新民事诉讼证据规定</span>
+          <a class="next" href="/post/wo-de-bo-ke-ji-yi/">
+            <span class="next-text nav-default">个人建站历程的小总结</span>
             <span class="prev-text nav-mobile">下一篇</span>
             
             <i class="iconfont">
@@ -710,7 +705,31 @@
 
     
 
-  
+  <div id="comments"></div>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script>
+    if(window.location.hash){
+        var checkExist = setInterval(function() {
+            if ($(window.location.hash).length) {
+              $('html, body').animate({scrollTop: $(window.location.hash).offset().top-90}, 700);
+              clearInterval(checkExist);
+            }
+        }, 10);
+    }
+  </script>
+  <script type="text/javascript">
+    new Valine({
+        el: '#comments' ,
+        appId: 'EuJeTAFSxe0Lcl6V3pt1ACTM-gzGzoHsz',
+        appKey: 'jn0xcD5LWBn6nk4vtnLKrO3C',
+        notify:  false , 
+        verify:  false , 
+        avatar:'mm', 
+        placeholder: '轻轻地你来了，就不说点什么吗...',
+        visitor:  false 
+    });
+  </script>
 
         </div>
       </div>

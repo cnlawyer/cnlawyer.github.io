@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金言的博客</copyright>
-    <lastBuildDate>Fri, 28 Feb 2020 09:50:34 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 18:20:34 +0800</lastBuildDate>
     
 	<atom:link href="https://cnlawyer.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       
       <guid>https://cnlawyer.github.io/post/jiu-min-ji-yao/</guid>
       <description>《纪要》共计12部分130个问题，内容涉及公司、合同、担保、金融、破产等民商事审判的绝大部分领域，直面民商事审判中的前沿疑难争议问题，密切关注正在制定修改过程中的民法典、公司法、证券法、破产法等法律的最新动态，密切跟踪金融领域最新监管政策、民商法学最前沿理论研究成果。 关于《纪要》的适用，民二庭负责人</description>
+    </item>
+    
+    <item>
+      <title>个人建站历程的小总结</title>
+      <link>https://cnlawyer.github.io/post/wo-de-bo-ke-ji-yi/</link>
+      <pubDate>Fri, 28 Feb 2020 18:20:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/wo-de-bo-ke-ji-yi/</guid>
+      <description>​ 在手提电脑也逐渐褪去主角光环的手机快餐文化时代，多少人还在坚持着个人博客或网站的维护？想说的太多，今天做下大致的记事，以备往后有时间时可以继续修改。刚开始从卡到爆的挤牙膏式的免费主机进行试水，到购买共享空间，再到购买国外的VPS，VPS又分成好几个阶段，第一阶段是安装有控制面板的程序，第二阶段是安</description>
     </item>
     
     <item>
