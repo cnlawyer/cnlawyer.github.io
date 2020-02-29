@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金言的博客</copyright>
-    <lastBuildDate>Fri, 28 Feb 2020 18:20:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 08:42:34 +0800</lastBuildDate>
     
 	<atom:link href="https://cnlawyer.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       
       <guid>https://cnlawyer.github.io/post/jiu-min-ji-yao/</guid>
       <description>《纪要》共计12部分130个问题，内容涉及公司、合同、担保、金融、破产等民商事审判的绝大部分领域，直面民商事审判中的前沿疑难争议问题，密切关注正在制定修改过程中的民法典、公司法、证券法、破产法等法律的最新动态，密切跟踪金融领域最新监管政策、民商法学最前沿理论研究成果。 关于《纪要》的适用，民二庭负责人</description>
+    </item>
+    
+    <item>
+      <title>解决HUGO：Failed to find a valid digest in the &#39;integrity&#39;</title>
+      <link>https://cnlawyer.github.io/post/hugo-find-a-valid-digest-in-the-integrity/</link>
+      <pubDate>Sat, 29 Feb 2020 08:42:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/hugo-find-a-valid-digest-in-the-integrity/</guid>
+      <description>使用hugo命令生成静态代码然后输送到github托管时，浏览器报错，我的问题是JS加载被拦截导致目录出不来 Failed to find a valid digest in the &#39;integrity&#39; attribute for resource &#39;https://xxxxx.github.io/js/main.dee43230127a73d039a734510fa896c89c3c7ce0cf0be0c7a7433f8fd69b76dc.js&#39; with computed SHA-256 integrity &#39;Y4JR9CMGMPAzXYxnSOU6lvlLcmcJILYMCaVv3Ivs4hQ=&#39;. The resource has been blocked. 这个问题把我烦的啊，二天没有搞定，google上老外各种伪技术啊能把人折腾疯，其实搞明白了，问题的解决办法是很简单的，简单到粗暴。就是本地仓库wi</description>
     </item>
     
     <item>

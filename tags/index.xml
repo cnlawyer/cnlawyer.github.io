@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金言的博客</copyright>
-    <lastBuildDate>Fri, 28 Feb 2020 18:20:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 08:42:34 +0800</lastBuildDate>
     
 	<atom:link href="https://cnlawyer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hugo</title>
+      <link>https://cnlawyer.github.io/tags/hugo/</link>
+      <pubDate>Sat, 29 Feb 2020 08:42:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>码农</title>
+      <link>https://cnlawyer.github.io/tags/%E7%A0%81%E5%86%9C/</link>
+      <pubDate>Sat, 29 Feb 2020 08:42:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/tags/%E7%A0%81%E5%86%9C/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>建站</title>
@@ -18,15 +36,6 @@
       <pubDate>Fri, 28 Feb 2020 18:20:34 +0800</pubDate>
       
       <guid>https://cnlawyer.github.io/tags/%E5%BB%BA%E7%AB%99/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>码农</title>
-      <link>https://cnlawyer.github.io/tags/%E7%A0%81%E5%86%9C/</link>
-      <pubDate>Fri, 28 Feb 2020 18:20:34 +0800</pubDate>
-      
-      <guid>https://cnlawyer.github.io/tags/%E7%A0%81%E5%86%9C/</guid>
       <description></description>
     </item>
     
@@ -45,15 +54,6 @@
       <pubDate>Fri, 28 Feb 2020 09:50:34 +0800</pubDate>
       
       <guid>https://cnlawyer.github.io/tags/%E8%AF%81%E6%8D%AE/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://cnlawyer.github.io/tags/hugo/</link>
-      <pubDate>Thu, 27 Feb 2020 14:01:23 +0800</pubDate>
-      
-      <guid>https://cnlawyer.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     

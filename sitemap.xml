@@ -17,21 +17,56 @@
   
   <url>
     <loc>https://cnlawyer.github.io/categories/</loc>
-    <lastmod>2020-02-28T18:20:34+08:00</lastmod>
+    <lastmod>2020-02-29T08:42:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnlawyer.github.io/tags/hugo/</loc>
+    <lastmod>2020-02-29T08:42:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cnlawyer.github.io/post/</loc>
-    <lastmod>2020-02-28T18:20:34+08:00</lastmod>
+    <lastmod>2020-02-29T08:42:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cnlawyer.github.io/tags/</loc>
-    <lastmod>2020-02-28T18:20:34+08:00</lastmod>
+    <lastmod>2020-02-29T08:42:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnlawyer.github.io/categories/%E7%A0%81%E5%86%9C/</loc>
+    <lastmod>2020-02-29T08:42:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnlawyer.github.io/tags/%E7%A0%81%E5%86%9C/</loc>
+    <lastmod>2020-02-29T08:42:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnlawyer.github.io/post/hugo-find-a-valid-digest-in-the-integrity/</loc>
+    <lastmod>2020-02-29T08:42:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnlawyer.github.io/</loc>
+    <lastmod>2020-02-29T08:42:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,27 +80,6 @@
   
   <url>
     <loc>https://cnlawyer.github.io/tags/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2020-02-28T18:20:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/categories/%E7%A0%81%E5%86%9C/</loc>
-    <lastmod>2020-02-28T18:20:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/tags/%E7%A0%81%E5%86%9C/</loc>
-    <lastmod>2020-02-28T18:20:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/</loc>
     <lastmod>2020-02-28T18:20:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -95,13 +109,6 @@
   <url>
     <loc>https://cnlawyer.github.io/tags/%E8%AF%81%E6%8D%AE/</loc>
     <lastmod>2020-02-28T09:50:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/tags/hugo/</loc>
-    <lastmod>2020-02-27T14:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -163,14 +170,14 @@
   </url>
   
   <url>
-    <loc>https://cnlawyer.github.io/categories/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
+    <loc>https://cnlawyer.github.io/tags/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
     <lastmod>2020-02-25T20:10:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cnlawyer.github.io/tags/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
+    <loc>https://cnlawyer.github.io/categories/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
     <lastmod>2020-02-25T20:10:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -268,14 +275,14 @@
   </url>
   
   <url>
-    <loc>https://cnlawyer.github.io/tags/%E6%B3%95%E5%BE%8B/</loc>
+    <loc>https://cnlawyer.github.io/categories/%E6%B3%95%E5%BE%8B/</loc>
     <lastmod>2020-02-21T20:56:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cnlawyer.github.io/categories/%E6%B3%95%E5%BE%8B/</loc>
+    <loc>https://cnlawyer.github.io/tags/%E6%B3%95%E5%BE%8B/</loc>
     <lastmod>2020-02-21T20:56:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
