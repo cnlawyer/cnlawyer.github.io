@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金言的博客</copyright>
-    <lastBuildDate>Thu, 12 Mar 2020 20:02:34 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 20:10:34 +0800</lastBuildDate>
     
 	<atom:link href="https://cnlawyer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>行政法</title>
+      <link>https://cnlawyer.github.io/categories/%E8%A1%8C%E6%94%BF%E6%B3%95/</link>
+      <pubDate>Fri, 13 Mar 2020 20:10:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/categories/%E8%A1%8C%E6%94%BF%E6%B3%95/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>码农</title>
@@ -36,15 +45,6 @@
       <pubDate>Fri, 28 Feb 2020 18:20:34 +0800</pubDate>
       
       <guid>https://cnlawyer.github.io/categories/%E9%9A%8F%E7%AC%94/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>民诉法</title>
-      <link>https://cnlawyer.github.io/categories/%E6%B0%91%E8%AF%89%E6%B3%95/</link>
-      <pubDate>Fri, 28 Feb 2020 09:50:34 +0800</pubDate>
-      
-      <guid>https://cnlawyer.github.io/categories/%E6%B0%91%E8%AF%89%E6%B3%95/</guid>
       <description></description>
     </item>
     
@@ -99,15 +99,6 @@
       <pubDate>Thu, 06 Feb 2020 16:01:23 +0800</pubDate>
       
       <guid>https://cnlawyer.github.io/categories/%E6%B0%91%E6%B3%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>行政法</title>
-      <link>https://cnlawyer.github.io/categories/%E8%A1%8C%E6%94%BF%E6%B3%95/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cnlawyer.github.io/categories/%E8%A1%8C%E6%94%BF%E6%B3%95/</guid>
       <description></description>
     </item>
     

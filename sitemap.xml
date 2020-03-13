@@ -16,28 +16,63 @@
   </url>
   
   <url>
+    <loc>https://cnlawyer.github.io/post/fa-kao-li-jia-xing-zheng-fa-jing-jiang/</loc>
+    <lastmod>2020-03-13T20:10:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://cnlawyer.github.io/categories/</loc>
-    <lastmod>2020-03-12T20:02:34+08:00</lastmod>
+    <lastmod>2020-03-13T20:10:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cnlawyer.github.io/post/</loc>
-    <lastmod>2020-03-12T20:02:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/tags/python/</loc>
-    <lastmod>2020-03-12T20:02:34+08:00</lastmod>
+    <lastmod>2020-03-13T20:10:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://cnlawyer.github.io/tags/</loc>
+    <lastmod>2020-03-13T20:10:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnlawyer.github.io/tags/%E6%B3%95%E8%80%83/</loc>
+    <lastmod>2020-03-13T20:10:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnlawyer.github.io/tags/%E8%A1%8C%E6%94%BF%E6%B3%95/</loc>
+    <lastmod>2020-03-13T20:10:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnlawyer.github.io/categories/%E8%A1%8C%E6%94%BF%E6%B3%95/</loc>
+    <lastmod>2020-03-13T20:10:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnlawyer.github.io/</loc>
+    <lastmod>2020-03-13T20:10:34+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://cnlawyer.github.io/tags/python/</loc>
     <lastmod>2020-03-12T20:02:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -59,13 +94,6 @@
   
   <url>
     <loc>https://cnlawyer.github.io/categories/%E7%A0%81%E5%86%9C/</loc>
-    <lastmod>2020-03-12T20:02:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/</loc>
     <lastmod>2020-03-12T20:02:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -142,34 +170,6 @@
   </url>
   
   <url>
-    <loc>https://cnlawyer.github.io/post/2020-min-shi-su-song-zheng-ju/</loc>
-    <lastmod>2020-02-28T09:50:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/tags/%E6%B0%91%E8%AF%89/</loc>
-    <lastmod>2020-02-28T09:50:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/categories/%E6%B0%91%E8%AF%89%E6%B3%95/</loc>
-    <lastmod>2020-02-28T09:50:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/tags/%E8%AF%81%E6%8D%AE/</loc>
-    <lastmod>2020-02-28T09:50:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://cnlawyer.github.io/post/syntax-highlighting/</loc>
     <lastmod>2020-02-27T14:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -226,14 +226,14 @@
   </url>
   
   <url>
-    <loc>https://cnlawyer.github.io/categories/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
+    <loc>https://cnlawyer.github.io/tags/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
     <lastmod>2020-02-25T20:10:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cnlawyer.github.io/tags/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
+    <loc>https://cnlawyer.github.io/categories/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
     <lastmod>2020-02-25T20:10:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -261,20 +261,6 @@
   </url>
   
   <url>
-    <loc>https://cnlawyer.github.io/tags/%E4%BA%B2%E5%AD%90%E6%95%99%E8%82%B2/</loc>
-    <lastmod>2020-02-25T12:25:55+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/post/qin-zi-jiao-yu-one/</loc>
-    <lastmod>2020-02-25T12:25:55+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://cnlawyer.github.io/post/bai-lang-tao-xing-fa-jing-jiang/</loc>
     <lastmod>2020-02-24T20:56:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -290,13 +276,6 @@
   
   <url>
     <loc>https://cnlawyer.github.io/tags/%E6%9F%8F%E6%B5%AA%E6%B6%9B/</loc>
-    <lastmod>2020-02-24T20:56:34+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/tags/%E6%B3%95%E8%80%83/</loc>
     <lastmod>2020-02-24T20:56:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -410,24 +389,6 @@
   <url>
     <loc>https://cnlawyer.github.io/categories/%E6%B0%91%E6%B3%95/</loc>
     <lastmod>2020-02-07T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/post/fa-kao-li-jia-xing-zheng-fa-jing-jiang/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/tags/%E8%A1%8C%E6%94%BF%E6%B3%95/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://cnlawyer.github.io/categories/%E8%A1%8C%E6%94%BF%E6%B3%95/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
