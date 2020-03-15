@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金言的博客</copyright>
-    <lastBuildDate>Fri, 13 Mar 2020 20:25:34 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 12:25:34 +0800</lastBuildDate>
     
 	<atom:link href="https://cnlawyer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>合同法</title>
+      <link>https://cnlawyer.github.io/categories/%E5%90%88%E5%90%8C%E6%B3%95/</link>
+      <pubDate>Sun, 15 Mar 2020 12:25:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/categories/%E5%90%88%E5%90%8C%E6%B3%95/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>随笔</title>
@@ -54,15 +63,6 @@
       <pubDate>Tue, 25 Feb 2020 20:10:34 +0800</pubDate>
       
       <guid>https://cnlawyer.github.io/categories/%E7%89%A9%E6%9D%83%E6%B3%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>合同法</title>
-      <link>https://cnlawyer.github.io/categories/%E5%90%88%E5%90%8C%E6%B3%95/</link>
-      <pubDate>Tue, 25 Feb 2020 16:45:55 +0800</pubDate>
-      
-      <guid>https://cnlawyer.github.io/categories/%E5%90%88%E5%90%8C%E6%B3%95/</guid>
       <description></description>
     </item>
     
