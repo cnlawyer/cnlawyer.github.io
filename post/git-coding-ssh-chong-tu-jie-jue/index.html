@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>关于违反法律、行政法规强制性规定无效的规定 - 金言的布拉格</title>
+  <title>同台设备中github和coding的ssh秘钥冲突的解决办法 - 金言的布拉格</title>
   
 
 <meta name="renderer" content="webkit" />
@@ -22,7 +22,7 @@
 
 <meta name="mobile-web-app-capable" content="yes">
 
-<meta name="author" content="金言" /><meta name="description" content="九民纪要第30条强制性规定的识别，即关于违反法律、行政法规强制性规定无效的规定，包括私法上的规定，但不包括批准生效、无权处分等专门规范的规定。" />
+<meta name="author" content="金言" /><meta name="description" content="同一台电脑中添加github和coding的ssh秘钥，进行验证时发生冲突的解决办法，即permission denied (publickey) 错误提示的解决，目的是兼容github和coding的ssh秘钥管理" />
 <meta name="keywords" content="合同法,, 合同的强制性效力" />
 
 
@@ -34,7 +34,7 @@
 <meta name="generator" content="Hugo 0.64.0" />
 
 
-<link rel="canonical" href="https://cnlawyer.github.io/post/guan-yu-he-tong-xiao-li/" />
+<link rel="canonical" href="https://cnlawyer.github.io/post/git-coding-ssh-chong-tu-jie-jue/" />
 
 
 
@@ -60,23 +60,23 @@
 <link rel="stylesheet" href="/css/custom.css">
 
 
-<meta property="og:title" content="关于违反法律、行政法规强制性规定无效的规定" />
-<meta property="og:description" content="九民纪要第30条强制性规定的识别，即关于违反法律、行政法规强制性规定无效的规定，包括私法上的规定，但不包括批准生效、无权处分等专门规范的规定。" />
+<meta property="og:title" content="同台设备中github和coding的ssh秘钥冲突的解决办法" />
+<meta property="og:description" content="同一台电脑中添加github和coding的ssh秘钥，进行验证时发生冲突的解决办法，即permission denied (publickey) 错误提示的解决，目的是兼容github和coding的ssh秘钥管理" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://cnlawyer.github.io/post/guan-yu-he-tong-xiao-li/" />
-<meta property="article:published_time" content="2020-03-15T12:25:34+08:00" />
-<meta property="article:modified_time" content="2020-03-15T12:25:34+08:00" />
-<meta itemprop="name" content="关于违反法律、行政法规强制性规定无效的规定">
-<meta itemprop="description" content="九民纪要第30条强制性规定的识别，即关于违反法律、行政法规强制性规定无效的规定，包括私法上的规定，但不包括批准生效、无权处分等专门规范的规定。">
-<meta itemprop="datePublished" content="2020-03-15T12:25:34&#43;08:00" />
-<meta itemprop="dateModified" content="2020-03-15T12:25:34&#43;08:00" />
-<meta itemprop="wordCount" content="2398">
+<meta property="og:url" content="https://cnlawyer.github.io/post/git-coding-ssh-chong-tu-jie-jue/" />
+<meta property="article:published_time" content="2020-03-21T16:52:34+08:00" />
+<meta property="article:modified_time" content="2020-03-21T16:52:34+08:00" />
+<meta itemprop="name" content="同台设备中github和coding的ssh秘钥冲突的解决办法">
+<meta itemprop="description" content="同一台电脑中添加github和coding的ssh秘钥，进行验证时发生冲突的解决办法，即permission denied (publickey) 错误提示的解决，目的是兼容github和coding的ssh秘钥管理">
+<meta itemprop="datePublished" content="2020-03-21T16:52:34&#43;08:00" />
+<meta itemprop="dateModified" content="2020-03-21T16:52:34&#43;08:00" />
+<meta itemprop="wordCount" content="352">
 
 
 
-<meta itemprop="keywords" content="合同法,合同效力," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="关于违反法律、行政法规强制性规定无效的规定"/>
-<meta name="twitter:description" content="九民纪要第30条强制性规定的识别，即关于违反法律、行政法规强制性规定无效的规定，包括私法上的规定，但不包括批准生效、无权处分等专门规范的规定。"/>
+<meta itemprop="keywords" content="hugo,github," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="同台设备中github和coding的ssh秘钥冲突的解决办法"/>
+<meta name="twitter:description" content="同一台电脑中添加github和coding的ssh秘钥，进行验证时发生冲突的解决办法，即permission denied (publickey) 错误提示的解决，目的是兼容github和coding的ssh秘钥管理"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -296,14 +296,14 @@
           <article class="post bg-white">
     
     <header class="post-header">
-      <h1 class="post-title">关于违反法律、行政法规强制性规定无效的规定</h1>
+      <h1 class="post-title">同台设备中github和coding的ssh秘钥冲突的解决办法</h1>
       
       <div class="post-meta">
-        <time datetime="2020-03-15" class="post-time">
-          2020-03-15
+        <time datetime="2020-03-21" class="post-time">
+          2020-03-21
         </time>
         <div class="post-category">
-            <a href="https://cnlawyer.github.io/categories/%E5%90%88%E5%90%8C%E6%B3%95/"> 合同法 </a>
+            <a href="https://cnlawyer.github.io/categories/%E7%A0%81%E5%86%9C/"> 码农 </a>
             
           </div>
         
@@ -321,66 +321,90 @@
 <div class="post-toc" id="post-toc">
   <h2 class="post-toc-title">文章目录</h2>
   <div class="post-toc-content">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#条文内容">　　条文内容</a></li>
-    <li><a href="#理解适用">　　理解适用</a></li>
-    <li><a href="#实务问题">　　【实务问题】</a></li>
-  </ul>
-</nav>
+    <nav id="TableOfContents"></nav>
   </div>
 </div>
 
     
     <div class="post-content">
-      <h2 id="条文内容">　　条文内容</h2>
-<p>　　【强制性规定的识别】合同法施行后，针对一些人民法院动辄以违反法律、行政法规的强制性规定为由认定合同无效，不当扩大无效合同范围的情形，合同法司法解释（二）第14条将《合同法》第52条第5项规定的“强制性规定”明确限于“效力性强制性规定”。此后，《最高人民法院关于当前形势下审理民商事合同纠纷案件若干问题的指导意见》进一步提出了“管理性强制性规定”的概念，指出违反管理性强制性规定的，人民法院应当根据具体情形认定合同效力。随着这一概念的提出，审判实践中又出现了另一种倾向，有的人民法院认为凡是行政管理性质的强制性规定都属于“管理性强制性规定”，不影响合同效力。这种望文生义的认定方法，应予纠正。</p>
-<p>　　人民法院在审理合同纠纷案件时，要依据《民法总则》第153条第1款和合同法司法解释（二）第14条的规定慎重判断“强制性规定”的性质，特别是要在考量强制性规定所保护的法益类型、违法行为的法律后果以及交易安全保护等因素的基础上认定其性质，并在裁判文书中充分说明理由。下列强制性规定，应当认定为“效力性强制性规定”：强制性规定涉及金融安全、市场秩序、国家宏观政策等公序良俗的；交易标的禁止买卖的，如禁止人体器官、毒品、枪支等买卖；违反特许经营规定的，如场外配资合同；交易方式严重违法的，如违反招投标等竞争性缔约方式订立的合同；交易场所违法的，如在批准的交易场所之外进行期货交易。关于经营范围、交易时间、交易数量等行政管理性质的强制性规定，一般应当认定为“管理性强制性规定”。</p>
-<h2 id="理解适用">　　理解适用</h2>
-<p>　　<strong>一、从《合同法》第53条第5项到《民法总则》第１５３条第１款</strong></p>
-<p>　　《民法总则》第１５３条第１款：违反法律、行政法规的强制性规定的民事法律行为无效，但是该强制性规定不导致该民事法律行为无效的除外。这里有两个强制性规定，其中前一个是效力性规定，后一个是管理性规定，从这里反映出民法总则对区分效力性规定与管理性规定的做法是持肯定态度的。</p>
-<p>　　<strong>二、要准确认定强制性规定的范围</strong></p>
-<p>　　（１）《民法总则》第１５３条第１款的强制性规定不包括法律、行政法规有关要求办理批准手续的效力。</p>
-<p>　　以批准作为生效条件的合同，批准属于合同的特别生效条件，而蜚此条款所谡的导致合同无效或不影响合同效力的强制性规定。</p>
-<p>　　（２）《民法总则》第１５３条第１款的强制性规定不包括权限性规定。</p>
-<p>　　法定代表人在对外担保等事项上，只有在经公司股东会或董事会决议后才能代表公司对外提供担保，否则构成越权代表，就要根据《公司法》第５０条的规定来认定合同效力，而不能适用《合同法》第５２条第５项或者《民法总则》第１５３条第１款。</p>
-<p>　　（３）《民法总则》第１５３条第１款的强制性规定也不包括赋权性规定。</p>
-<p>　　违反《房地产管理法》第３８条第４项的规定，构成无权处分，只能根据《合同法》第５１条对无权处分的规定认定合同效力。</p>
-<p>　　第三十八条下列房地产，不得转让:</p>
-<p>　　(一)以出让方式取得土地使用权的，不符合本法第三十九条规定的条件的;</p>
-<p>　　(二)司法机关和行政机关依法裁定、决定查封或者以其他形式限制房地产权利的;</p>
-<p>　　(三)依法收回土地使用权的;</p>
-<p>　　(四)共有房地产，未经其他共有人书面同意的;</p>
-<p>　　(五)权属有争议的;</p>
-<p>　　(六)未依法登记领取权属证书的;</p>
-<p>　　(七)法律、行政法规规定禁止转让的其他情形。</p>
-<p>　　<strong>三、要准确适用违法无效规则。</strong></p>
-<p>　　（一）要确定是否存在强制性规定。</p>
-<p>　　公法上的强制性规定才可能是管理性规定，而私法上的强制性规定并不都是效力性规定，比如权限性规定、赋权性规定的违反启动的是效力待定。</p>
-<p>　　（二）要考察规范对象</p>
-<p>　　第一、合同内容违法。主要体现为标的物违法，包括：</p>
-<p>　　（１）以禁止流通物和限制流通物作为交易对象的行为，如文物、毒品；（２）以人身或人格利益作为交易对象的行为，如妇女、人体器官；（３）对违法标的物作为交易对象的行为，如销售假币；</p>
-<p>　　第二、主体资格违法，如学校等以公益为事业为目的的单位提供保证。</p>
-<p>　　第三、合同的其他要素违反，包括：</p>
-<p>　　（１）缔约方式违法，如建设工程合同必须进行招标；（２）场所违法，如期货；（３）期限、数量违法，如民间借贷超过３６％。</p>
-<p>　　第四、履行行为违法，如走私。</p>
-<p>　　合同内容违法→合同无效；主体违法、要素违法→不应认定合同无效；履行行为违法→不影响合同效力。</p>
-<p>　　（三）要进行法益衡量</p>
-<p>　　第一、考察所保护的法益是否超过合同自由这一法益。如果是金融安全、市场秩序、国家调控等公序良俗→合同无效；</p>
-<p>　　第二、考察法律后果，违法行为可能构成刑罚处罚的，意味着具有严重的社会危害性→合同无效，但仅是轻微的行政违法行为，受害人是特定的→可撤销，反之合同无效。</p>
-<p>　　第三、考察是否涉及交易安全保护问题。优先考虑交易相对人保护的问题，比如房价上涨。</p>
-<p>　　第四、考察合同是否已经履行。取决于合同瑕疵的程度。如果是枪支等→无效；如果不是严重的瑕疵，合同已经履行的情况下，考量履行的要素，一定情况下承认合同有效。</p>
-<p>　　<strong>四、商事审判中常见的违法行为及其合同效力</strong></p>
-<p>　　（一）关于主体资格违法的问题：不具有相应资格、资质的主体从事的法律行为原则上无效，但仍要保护善意相对人的合法权益。</p>
-<p>　　（二）关于超越经营范围和违反特许经营问题：合同无效，主要是主体资格的限制，比如烟草；标的物的限制，比如禁止的流通物；对行为本身的限制，比如建设工程施工许可证。在本质上就是未取得行政许可的行为。</p>
-<p>　　（三）关于保底条款无效的问题。</p>
-<p>　　（四）关于违反竞争性缔约方式问题。主要是招投标。</p>
-<p>　　（五）关于场所不法问题。原则上不影响合同效力，但证券交易除外。</p>
-<h2 id="实务问题">　　【实务问题】</h2>
-<p>　　一、如何判断一个规范是否属于强制性规定</p>
-<p>　　应当、必须、不得、禁止四个词的判断→必须、禁止均是强制性规定，应当、不得通常是强制性规定，但要排除属于裁判规范、倡导性规范或者半强制规范的情形。</p>
-<p>　　<strong>二、民事合同构成刑事犯罪的，合同是否无效</strong></p>
-<p>　　违法性程序考察仅是法益衡量的一个因素，在确定违法合同的效力时，还要兼顾考察交易安全保护等因素，比如合同诈骗在合同法的效力是可撤销，<strong>赋予受害人撤销权，并由其决定合同是否无效</strong>。</p>
+      <p>　　在本地.ssh文件夹中建立好github和coding的ssh秘钥后在推代码时提示：permission denied (publickey) 这个错误时，说明github和coding的ssh发生冲突了。</p>
+<p>　　github和coding的ssh秘钥的建立过程：</p>
+<p>　　１、先进入ssh目录</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">cd</span> ~/.ssh
+</code></pre></td></tr></table>
+</div>
+</div><p>　　２、生成github、gitee的key，依次执行以下命令（里面的邮箱地址改成自己的邮箱）</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">ssh-keygen -t rsa -C <span class="s2">&#34;call_xxxx@163.com&#34;</span> -f <span class="s2">&#34;github_rsa&#34;</span>
+ssh-keygen -t rsa -C <span class="s2">&#34;call_xxxx@163.com&#34;</span> -f <span class="s2">&#34;coding_rsa&#34;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>　　３、在 ~/.ssh 目录下新建一个config文件</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">touch config
+</code></pre></td></tr></table>
+</div>
+</div><p>　　４、给系统添加SSH</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">ssh-add ~/.ssh/github_rsa
+ssh-add ~/.ssh/coding_rsa
+</code></pre></td></tr></table>
+</div>
+</div><p>　　这步如果出现Could not open a connection to your authentication agent，需要执行以下命令</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">eval `ssh-agent -s`　或者　ssh-agent bash
+</code></pre></td></tr></table>
+</div>
+</div><p>　　然后再执行以上的ssh-add命令即可。</p>
+<p>　　５、在第３部的config中添加配置</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span><span class="lnt">9
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1"># github</span>
+Host github.com
+HostName github.com
+IdentityFile ~/.ssh/github_rsa
+
+<span class="c1"># coding</span>
+Host e.coding.net
+HostName e.coding.net
+IdentityFile ~/.ssh/coding_rsa
+</code></pre></td></tr></table>
+</div>
+</div><p>　　然后分别运行<code>ssh -T git@github.com</code>　和　<code>ssh -T git@e.coding.net</code>　进行ssh验证是否连接。</p>
 
     </div>
 
@@ -394,14 +418,14 @@
   <p class="copyright-item">
     <span class="item-title">上次更新</span>
     <span class="item-content">
-      2020-03-15
+      2020-03-21
       
     </span>
   </p>
  
     <p class="copyright-item">
       <span class="item-title">原始文档</span>
-      <span class="item-content"><a class="link-to-markdown" href="https://cnlawyer.github.io/post/guan-yu-he-tong-xiao-li/" rel="noopener" target="_blank">关于违反法律、行政法规强制性规定无效的规定</a></span>
+      <span class="item-content"><a class="link-to-markdown" href="https://cnlawyer.github.io/post/git-coding-ssh-chong-tu-jie-jue/" rel="noopener" target="_blank">同台设备中github和coding的ssh秘钥冲突的解决办法</a></span>
 	 
   <p class="copyright-item">
     <span class="item-title">许可协议</span>
@@ -416,15 +440,15 @@
 
     <footer class="post-footer">
       <div class="post-tags">
-          <a href="https://cnlawyer.github.io/tags/%E5%90%88%E5%90%8C%E6%B3%95/">合同法</a>
-          <a href="https://cnlawyer.github.io/tags/%E5%90%88%E5%90%8C%E6%95%88%E5%8A%9B/">合同效力</a>
+          <a href="https://cnlawyer.github.io/tags/hugo/">hugo</a>
+          <a href="https://cnlawyer.github.io/tags/github/">github</a>
           
         </div>
 
       
       <nav class="post-nav">
         
-          <a class="prev" href="/post/git-coding-ssh-chong-tu-jie-jue/">
+          <a class="prev" href="/post/jiu-min-ji-yao/">
             
             <i class="iconfont">
               <svg  class="icon" viewBox="0 0 1024 1024" version="1.1"
@@ -434,12 +458,12 @@
 </svg>
 
             </i>
-            <span class="prev-text nav-default">同台设备中github和coding的ssh秘钥冲突的解决办法</span>
+            <span class="prev-text nav-default">九民纪要理解与适用及全文</span>
             <span class="prev-text nav-mobile">上一篇</span>
           </a>
         
-          <a class="next" href="/post/quan-qiu-fei-yan-yi-qing/">
-            <span class="next-text nav-default">基于2020年全球性肺炎疫情的一点小感</span>
+          <a class="next" href="/post/guan-yu-he-tong-xiao-li/">
+            <span class="next-text nav-default">关于违反法律、行政法规强制性规定无效的规定</span>
             <span class="prev-text nav-mobile">下一篇</span>
             
             <i class="iconfont">

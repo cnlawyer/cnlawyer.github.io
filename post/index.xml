@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金言的博客</copyright>
-    <lastBuildDate>Sun, 15 Mar 2020 12:25:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 16:52:34 +0800</lastBuildDate>
     
 	<atom:link href="https://cnlawyer.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       
       <guid>https://cnlawyer.github.io/post/jiu-min-ji-yao/</guid>
       <description>纪要出台 《纪要》共计12部分130个问题，内容涉及公司、合同、担保、金融、破产等民商事审判的绝大部分领域，直面民商事审判中的前沿疑难争议问题，密切关注正在制定修改过程中的民法典、公司法、证券法、破产法等法律的最新动态，密切跟踪金融领域最新监管政策、民商法学最前沿理论研究成果。 关于《纪要》的适用，民二</description>
+    </item>
+    
+    <item>
+      <title>同台设备中github和coding的ssh秘钥冲突的解决办法</title>
+      <link>https://cnlawyer.github.io/post/git-coding-ssh-chong-tu-jie-jue/</link>
+      <pubDate>Sat, 21 Mar 2020 16:52:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/git-coding-ssh-chong-tu-jie-jue/</guid>
+      <description>在本地.ssh文件夹中建立好github和coding的ssh秘钥后在推代码时提示：permission denied (publickey) 这个错误时，说明github和coding的ssh发生冲突了。 github和coding的ssh秘钥的建立过程： １、先进入ssh目录 1 cd ~/.ssh ２、生成github、gitee的key，依次执行以下</description>
     </item>
     
     <item>

@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on 金言的布拉格</title>
+    <title>hugo on 金言的布拉格</title>
     <link>https://cnlawyer.github.io/tags/hugo/</link>
-    <description>Recent content in Hugo on 金言的布拉格</description>
+    <description>Recent content in hugo on 金言的布拉格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金言的博客</copyright>
-    <lastBuildDate>Sat, 29 Feb 2020 08:42:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 16:52:34 +0800</lastBuildDate>
     
 	<atom:link href="https://cnlawyer.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>同台设备中github和coding的ssh秘钥冲突的解决办法</title>
+      <link>https://cnlawyer.github.io/post/git-coding-ssh-chong-tu-jie-jue/</link>
+      <pubDate>Sat, 21 Mar 2020 16:52:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/git-coding-ssh-chong-tu-jie-jue/</guid>
+      <description>在本地.ssh文件夹中建立好github和coding的ssh秘钥后在推代码时提示：permission denied (publickey) 这个错误时，说明github和coding的ssh发生冲突了。 github和coding的ssh秘钥的建立过程： １、先进入ssh目录 1 cd ~/.ssh ２、生成github、gitee的key，依次执行以下</description>
+    </item>
     
     <item>
       <title>解决HUGO：Failed to find a valid digest in the &#39;integrity&#39;</title>
