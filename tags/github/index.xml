@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on 金言的布拉格</title>
+    <link>https://cnlawyer.github.io/tags/github/</link>
+    <description>Recent content in github on 金言的布拉格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>金言的博客</copyright>
+    <lastBuildDate>Tue, 03 Aug 2021 16:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://cnlawyer.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Github与Vercel整合测试</title>
+      <link>https://cnlawyer.github.io/post/github-vercel/</link>
+      <pubDate>Tue, 03 Aug 2021 16:01:23 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/github-vercel/</guid>
+      <description>Github与Vercel整合： 将Github同步到Vercel，布署到Github后观察Vercel的内容变化。 公开课视频:</description>
+    </item>
+    
+    <item>
+      <title>同台设备中github和coding的ssh秘钥冲突的解决办法</title>
+      <link>https://cnlawyer.github.io/post/git-coding-ssh-chong-tu-jie-jue/</link>
+      <pubDate>Sat, 21 Mar 2020 16:52:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/git-coding-ssh-chong-tu-jie-jue/</guid>
+      <description>在本地.ssh文件夹中建立好github和coding的ssh秘钥后在推代码时提示：permission denied (publickey) 这个错误时，说明github和coding的ssh发生冲突了。 github和coding的ssh秘钥的建立过程： １、先进入ssh目录 1 cd ~/.ssh ２、生成github、gitee的key，依次执行以下</description>
+    </item>
+    
+    <item>
+      <title>Coding 添加SSH密钥</title>
+      <link>https://cnlawyer.github.io/post/coding-ssh-mi-yao/</link>
+      <pubDate>Wed, 26 Feb 2020 20:10:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/coding-ssh-mi-yao/</guid>
+      <description>本地建立好git仓库后，有时基于多客户端的便携操作，需要将仓库推送到github和coding上，coding作为国内用户的线路来触发访问，此时就需要在本地进行多个SSH密钥的建立和管理，为了不让ssh密钥发生冲突覆盖，需要进行不同的命名，因此进行ssh多密钥管理进行连接时会发生冲突。所以记下了自已</description>
+    </item>
+    
+  </channel>
+</rss>

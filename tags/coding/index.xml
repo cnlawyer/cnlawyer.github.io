@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on 金言的布拉格</title>
+    <link>https://cnlawyer.github.io/tags/coding/</link>
+    <description>Recent content in coding on 金言的布拉格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>金言的博客</copyright>
+    <lastBuildDate>Wed, 26 Feb 2020 20:10:34 +0800</lastBuildDate>
+    
+	<atom:link href="https://cnlawyer.github.io/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coding 添加SSH密钥</title>
+      <link>https://cnlawyer.github.io/post/coding-ssh-mi-yao/</link>
+      <pubDate>Wed, 26 Feb 2020 20:10:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/coding-ssh-mi-yao/</guid>
+      <description>本地建立好git仓库后，有时基于多客户端的便携操作，需要将仓库推送到github和coding上，coding作为国内用户的线路来触发访问，此时就需要在本地进行多个SSH密钥的建立和管理，为了不让ssh密钥发生冲突覆盖，需要进行不同的命名，因此进行ssh多密钥管理进行连接时会发生冲突。所以记下了自已</description>
+    </item>
+    
+  </channel>
+</rss>

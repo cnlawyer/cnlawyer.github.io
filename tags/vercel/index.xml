@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vercel on 金言的布拉格</title>
+    <link>https://cnlawyer.github.io/tags/vercel/</link>
+    <description>Recent content in Vercel on 金言的布拉格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>金言的博客</copyright>
+    <lastBuildDate>Tue, 03 Aug 2021 16:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://cnlawyer.github.io/tags/vercel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Github与Vercel整合测试</title>
+      <link>https://cnlawyer.github.io/post/github-vercel/</link>
+      <pubDate>Tue, 03 Aug 2021 16:01:23 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/github-vercel/</guid>
+      <description>Github与Vercel整合： 将Github同步到Vercel，布署到Github后观察Vercel的内容变化。 公开课视频:</description>
+    </item>
+    
+  </channel>
+</rss>

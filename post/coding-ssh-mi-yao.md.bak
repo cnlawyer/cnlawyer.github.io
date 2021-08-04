@@ -1,0 +1,59 @@
+---
+title: "Coding 添加SSH密钥"
+date: 2020-02-26T20:10:34+08:00
+draft: true
+tags: ["coding", "github"]
+categories: ["码农"]
+author: "金言"
+
+description: 给coding.net账户添加SSH密钥时遇到Permission denied (publickey) 的解决办法
+keywords: coding仓库
+---
+
+本地建立好git仓库后，有时基于多客户端的便携操作，需要将仓库推送到github和coding上，coding作为国内用户的线路来触发访问，此时就需要在本地进行多个SSH密钥的建立和管理，为了不让ssh密钥发生冲突覆盖，需要进行不同的命名，因此进行ssh多密钥管理进行连接时会发生冲突。所以记下了自已踩过的坑和解决方法。
+
+给coding.net帐户增加SSH：
+
+````
+ssh-keygen -t rsa -C “你注册时的邮箱”
+````
+
+然后提示：
+
+````
+Enter file in which to save the key (/c/Users/Administrator/.ssh/id_rsa):
+````
+
+如果已有github的密码名为id_rsa的这里需要输入另外一个名称，比如mycoding，然后一路回车即可。
+
+然后把mycoding.pub里面的内容添加到账户后面的ssh里
+
+检验是否连接：
+
+````
+ssh -T git@e.coding.net
+````
+
+会提示git@e.coding.net: Permission denied (publickey).
+
+意思是默认读取id_rsa的密钥了，要读取刚刚建的mycoding还要进行下面的操作：
+
+```` 
+ssh-agent bash
+````
+
+然后再输入命令：
+
+```` 
+ssh-add ~/.ssh/coding_rsa
+````
+
+显示Identity added: 这样的一段表示已经添加成功，然后再执行`ssh -T git@e.coding.net`
+
+输出此类的句子：Coding 提示: Hello 某某, You've connected to Coding.net via SSH. This is a personal key.
+
+就表示已经连接了coding.net的密钥了。
+
+
+
+

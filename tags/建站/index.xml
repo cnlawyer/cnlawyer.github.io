@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>建站 on 金言的布拉格</title>
+    <link>https://cnlawyer.github.io/tags/%E5%BB%BA%E7%AB%99/</link>
+    <description>Recent content in 建站 on 金言的布拉格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>金言的博客</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 18:20:34 +0800</lastBuildDate>
+    
+	<atom:link href="https://cnlawyer.github.io/tags/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>个人建站历程的小总结</title>
+      <link>https://cnlawyer.github.io/post/wo-de-bo-ke-ji-yi/</link>
+      <pubDate>Fri, 28 Feb 2020 18:20:34 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/wo-de-bo-ke-ji-yi/</guid>
+      <description>在手提电脑也逐渐褪去主角光环的手机快餐文化时代，多少人还在坚持着个人博客或网站的维护？想说的太多，今天做下大致的记事，以备往后有时间时可以继续修改。刚开始从卡到爆的挤牙膏式的免费主机进行试水，到购买共享空间，再到购买国外的VPS，VPS又分成好几个阶段，第一阶段是安装有控制面板的程序，第二阶段是安装</description>
+    </item>
+    
+  </channel>
+</rss>
