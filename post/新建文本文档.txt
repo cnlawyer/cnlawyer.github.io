@@ -1,0 +1,23 @@
+---
+title: "Github与Vercel整合测试"
+date: 2021-08-03T16:01:23+08:00
+lastmod: 2021-08-03T16:01:23+08:00
+draft: false
+tags: ["Github", "Vercel"]
+categories: ["码农"]
+author: "金言"
+
+---
+
+## Github与Vercel整合：
+
+将Github同步到Vercel，布署到Github后观察Vercel的内容变化。
+
+## 公开课视频:
+
+{{< bilibili 36871505>}}
+
+
+
+
+

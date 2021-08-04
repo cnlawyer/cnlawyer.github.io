@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金言的博客</copyright>
-    <lastBuildDate>Tue, 03 Aug 2021 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Aug 2021 20:46:19 +0800</lastBuildDate>
     
 	<atom:link href="https://cnlawyer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>民事诉讼</title>
+      <link>https://cnlawyer.github.io/categories/%E6%B0%91%E4%BA%8B%E8%AF%89%E8%AE%BC/</link>
+      <pubDate>Wed, 04 Aug 2021 20:46:19 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/categories/%E6%B0%91%E4%BA%8B%E8%AF%89%E8%AE%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>码农</title>
       <link>https://cnlawyer.github.io/categories/%E7%A0%81%E5%86%9C/</link>
-      <pubDate>Tue, 03 Aug 2021 16:01:23 +0800</pubDate>
+      <pubDate>Wed, 04 Aug 2021 16:01:23 +0800</pubDate>
       
       <guid>https://cnlawyer.github.io/categories/%E7%A0%81%E5%86%9C/</guid>
       <description></description>
