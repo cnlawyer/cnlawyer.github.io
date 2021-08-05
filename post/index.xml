@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金言的博客</copyright>
-    <lastBuildDate>Wed, 04 Aug 2021 20:46:19 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Aug 2021 10:48:08 +0800</lastBuildDate>
     
 	<atom:link href="https://cnlawyer.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,12 +22,21 @@
     </item>
     
     <item>
+      <title>商品房买卖合同中预约与本约合同的认定规则</title>
+      <link>https://cnlawyer.github.io/post/shang-pin-fang-yu-yue-he-ben-yue-de-ren-ding/</link>
+      <pubDate>Thu, 05 Aug 2021 10:48:08 +0800</pubDate>
+      
+      <guid>https://cnlawyer.github.io/post/shang-pin-fang-yu-yue-he-ben-yue-de-ren-ding/</guid>
+      <description>所谓商品房预约合同，是指房地产开发企业与买受人就双方在一定期限内签订商品房买卖合同达成的协议，一般以“意向书”“订购书”“认购书”等形式表现，且多约定定金。 一、要真正的识别预约与本约在实务中并不容易。 在具体判断一项约定到底是预约还是本约时，需要结合其整体内容辅助判断当事人的意图，即其究竟是为了订立一</description>
+    </item>
+    
+    <item>
       <title>2021年最新《人民检察院民事诉讼监督规则》</title>
       <link>https://cnlawyer.github.io/post/min-shi-su-song-jian-du-gui-ze/</link>
       <pubDate>Wed, 04 Aug 2021 20:46:19 +0800</pubDate>
       
       <guid>https://cnlawyer.github.io/post/min-shi-su-song-jian-du-gui-ze/</guid>
-      <description>修订后的《规则》共10章135条，与原民事诉讼监督规则相比，减少了1章，增加11条。经最高检第十三届检察委员会第六十二次会议审议通过， 于2021年8月1日起正式施行。 五大亮点： **一：**明确当事人不服生效裁判的 两年申请监督期限，同时规定检察机关 依职权启动监督程序的案件，不受该期限的限制； **二：*</description>
+      <description>修订后的《规则》共10章135条，与原民事诉讼监督规则相比，减少了1章，增加11条。经最高检第十三届检察委员会第六十二次会议审议通过， 于2021年8月1日起正式施行。 五大亮点： 一：明确当事人不服生效裁判的 两年申请监督期限，同时规定检察机关 依职权启动监督程序的案件，不受该期限的限制； 二：完善检察机关不</description>
     </item>
     
     <item>
@@ -211,15 +220,6 @@
       
       <guid>https://cnlawyer.github.io/post/2020-min-fa-dian-cao-an/</guid>
       <description>根据草案第1260条的规定，民法典审议通过后，现行的物权法、合同法、婚姻法、继承法、收养法、侵权责任法，包括通过才两年多的民法总则都将被废止。如果说宪法重在限制公权力，那么民法典就重在保护私权利，几乎所有的民事活动大到合同签订、公司设立，小到缴纳物业费、离婚，都能在民法典中找到依据。</description>
-    </item>
-    
-    <item>
-      <title>Hugo首页中文文章输出文字增加断字功能</title>
-      <link>https://cnlawyer.github.io/post/hugo-shou-ye-wen-zhang-duan-zi/</link>
-      <pubDate>Sat, 15 Feb 2020 16:01:23 +0800</pubDate>
-      
-      <guid>https://cnlawyer.github.io/post/hugo-shou-ye-wen-zhang-duan-zi/</guid>
-      <description>在HUGO首页输出中，采用的是默认的英文断字显示，对于中文来说，会显示的较短，实现断字采用的是Summary语法判断，具体的可以前往官方说明：https://gohugo.io/content-management/summaries/#hugo-defined-automatic-summary-</description>
     </item>
     
   </channel>
