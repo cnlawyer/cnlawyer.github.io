@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on 金建东律师的法学自习室</title>
-    <link>https://cnlawyer.vercel.app/tags/hugo/</link>
+    <link>https://jjdlawyer.com/tags/hugo/</link>
     <description>Recent content in hugo on 金建东律师的法学自习室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金建东律师的布拉格</copyright>
     <lastBuildDate>Sat, 21 Mar 2020 16:52:34 +0800</lastBuildDate>
     
-	<atom:link href="https://cnlawyer.vercel.app/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jjdlawyer.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>同台设备中github和coding的ssh秘钥冲突的解决办法</title>
-      <link>https://cnlawyer.vercel.app/post/git-coding-ssh-chong-tu-jie-jue/</link>
+      <link>https://jjdlawyer.com/post/git-coding-ssh-chong-tu-jie-jue/</link>
       <pubDate>Sat, 21 Mar 2020 16:52:34 +0800</pubDate>
       
-      <guid>https://cnlawyer.vercel.app/post/git-coding-ssh-chong-tu-jie-jue/</guid>
+      <guid>https://jjdlawyer.com/post/git-coding-ssh-chong-tu-jie-jue/</guid>
       <description>在本地.ssh文件夹中建立好github和coding的ssh秘钥后在推代码时提示：permission denied (publickey) 这个错误时，说明github和coding的ssh发生冲突了。 github和coding的ssh秘钥的建立过程： １、先进入ssh目录 1 cd ~/.ssh ２、生成github、gitee的key，依次执行以下</description>
     </item>
     
     <item>
       <title>解决HUGO：Failed to find a valid digest in the &#39;integrity&#39;</title>
-      <link>https://cnlawyer.vercel.app/post/hugo-find-a-valid-digest-in-the-integrity/</link>
+      <link>https://jjdlawyer.com/post/hugo-find-a-valid-digest-in-the-integrity/</link>
       <pubDate>Sat, 29 Feb 2020 08:42:34 +0800</pubDate>
       
-      <guid>https://cnlawyer.vercel.app/post/hugo-find-a-valid-digest-in-the-integrity/</guid>
+      <guid>https://jjdlawyer.com/post/hugo-find-a-valid-digest-in-the-integrity/</guid>
       <description>使用hugo命令生成静态代码然后输送到github托管时，浏览器报错，我的问题是JS加载被拦截导致目录出不来 Failed to find a valid digest in the &#39;integrity&#39; attribute for resource &#39;https://xxxxx.github.io/js/main.dee43230127a73d039a734510fa896c89c3c7ce0cf0be0c7a7433f8fd69b76dc.js&#39; with computed SHA-256 integrity &#39;Y4JR9CMGMPAzXYxnSOU6lvlLcmcJILYMCaVv3Ivs4hQ=&#39;. The resource has been blocked. 这个问题把我烦的啊，二天没有搞定，google上老外各种伪技术啊能把人折腾疯，其实搞明白了，问题的解决办法是很简单的，简单到粗暴。就是本地仓库wi</description>
     </item>
     
     <item>
       <title>Hugo高亮短代码测试：Syntax Highlighting</title>
-      <link>https://cnlawyer.vercel.app/post/syntax-highlighting/</link>
+      <link>https://jjdlawyer.com/post/syntax-highlighting/</link>
       <pubDate>Thu, 27 Feb 2020 14:01:23 +0800</pubDate>
       
-      <guid>https://cnlawyer.vercel.app/post/syntax-highlighting/</guid>
+      <guid>https://jjdlawyer.com/post/syntax-highlighting/</guid>
       <description>&lt;p&gt;Hugo代码高亮测试，支持多种编程语言，自动识别并触发，配合css输出，实行比较友好的代码前端输出，支持代码按行数自动显示。配置的方法是在config.toml第15行左右的下面增加如下配置进行触发，如果添加后前端没有显示，而后是背景为黑色并且没有行号的话，需要在控制里将true改为false保存刷新，然后再将false改回true即可渲染出来。
 代码如下：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -71,10 +71,10 @@
     
     <item>
       <title>Hugo首页中文文章输出文字增加断字功能</title>
-      <link>https://cnlawyer.vercel.app/post/hugo-shou-ye-wen-zhang-duan-zi/</link>
+      <link>https://jjdlawyer.com/post/hugo-shou-ye-wen-zhang-duan-zi/</link>
       <pubDate>Sat, 15 Feb 2020 16:01:23 +0800</pubDate>
       
-      <guid>https://cnlawyer.vercel.app/post/hugo-shou-ye-wen-zhang-duan-zi/</guid>
+      <guid>https://jjdlawyer.com/post/hugo-shou-ye-wen-zhang-duan-zi/</guid>
       <description>在HUGO首页输出中，采用的是默认的英文断字显示，对于中文来说，会显示的较短，实现断字采用的是Summary语法判断，具体的可以前往官方说明：https://gohugo.io/content-management/summaries/#hugo-defined-automatic-summary-</description>
     </item>
     

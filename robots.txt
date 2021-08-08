@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://cnlawyer.vercel.app/sitemap.xml
+Sitemap: https://jjdlawyer.com/sitemap.xml
