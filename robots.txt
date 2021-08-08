@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://cnlawyer.github.io/sitemap.xml
+Sitemap: https://cnlawyer.vercel.app/sitemap.xml

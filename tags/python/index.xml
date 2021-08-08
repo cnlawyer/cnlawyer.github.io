@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python on 金言的布拉格</title>
-    <link>https://cnlawyer.github.io/tags/python/</link>
-    <description>Recent content in python on 金言的布拉格</description>
+    <title>python on 金建东律师的法学自习室</title>
+    <link>https://cnlawyer.vercel.app/tags/python/</link>
+    <description>Recent content in python on 金建东律师的法学自习室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>金言的博客</copyright>
+    <copyright>金建东律师的布拉格</copyright>
     <lastBuildDate>Thu, 12 Mar 2020 20:02:34 +0800</lastBuildDate>
     
-	<atom:link href="https://cnlawyer.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cnlawyer.vercel.app/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>使用python制作裁判文书爬虫计划</title>
-      <link>https://cnlawyer.github.io/post/cai-pan-wen-shu-wang-pa-chong/</link>
+      <link>https://cnlawyer.vercel.app/post/cai-pan-wen-shu-wang-pa-chong/</link>
       <pubDate>Thu, 12 Mar 2020 20:02:34 +0800</pubDate>
       
-      <guid>https://cnlawyer.github.io/post/cai-pan-wen-shu-wang-pa-chong/</guid>
+      <guid>https://cnlawyer.vercel.app/post/cai-pan-wen-shu-wang-pa-chong/</guid>
       <description>法律检索技能对于一名律师来说无庸质疑是考验业务素质的基本功，用python制作爬虫脚本将会在几分钟内通过执行脚本命令爬取需要的裁判文书，相对于手动检索和查看、下载等一系列操作无疑是事半功倍的。 当决心抽时间去学习也是给自己挖坑，裁判文书网的反爬措施是异常多变的，这就意味着要不断的去更新脚本代码来符合裁</description>
     </item>
     

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>代码高亮 on 金言的布拉格</title>
-    <link>https://cnlawyer.github.io/tags/%E4%BB%A3%E7%A0%81%E9%AB%98%E4%BA%AE/</link>
-    <description>Recent content in 代码高亮 on 金言的布拉格</description>
+    <title>代码高亮 on 金建东律师的法学自习室</title>
+    <link>https://cnlawyer.vercel.app/tags/%E4%BB%A3%E7%A0%81%E9%AB%98%E4%BA%AE/</link>
+    <description>Recent content in 代码高亮 on 金建东律师的法学自习室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>金言的博客</copyright>
+    <copyright>金建东律师的布拉格</copyright>
     <lastBuildDate>Thu, 27 Feb 2020 14:01:23 +0800</lastBuildDate>
     
-	<atom:link href="https://cnlawyer.github.io/tags/%E4%BB%A3%E7%A0%81%E9%AB%98%E4%BA%AE/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cnlawyer.vercel.app/tags/%E4%BB%A3%E7%A0%81%E9%AB%98%E4%BA%AE/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo高亮短代码测试：Syntax Highlighting</title>
-      <link>https://cnlawyer.github.io/post/syntax-highlighting/</link>
+      <link>https://cnlawyer.vercel.app/post/syntax-highlighting/</link>
       <pubDate>Thu, 27 Feb 2020 14:01:23 +0800</pubDate>
       
-      <guid>https://cnlawyer.github.io/post/syntax-highlighting/</guid>
+      <guid>https://cnlawyer.vercel.app/post/syntax-highlighting/</guid>
       <description>&lt;p&gt;Hugo代码高亮测试，支持多种编程语言，自动识别并触发，配合css输出，实行比较友好的代码前端输出，支持代码按行数自动显示。配置的方法是在config.toml第15行左右的下面增加如下配置进行触发，如果添加后前端没有显示，而后是背景为黑色并且没有行号的话，需要在控制里将true改为false保存刷新，然后再将false改回true即可渲染出来。
 代码如下：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
