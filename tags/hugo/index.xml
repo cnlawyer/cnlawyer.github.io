@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on 金建东律师的法学自习室</title>
+    <title>Hugo on 金建东律师的法学自习室</title>
     <link>https://jjdlawyer.com/tags/hugo/</link>
-    <description>Recent content in hugo on 金建东律师的法学自习室</description>
+    <description>Recent content in Hugo on 金建东律师的法学自习室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金建东律师的布拉格</copyright>
-    <lastBuildDate>Sat, 21 Mar 2020 16:52:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Aug 2021 19:49:20 +0800</lastBuildDate>
     
 	<atom:link href="https://jjdlawyer.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vercel绑定自已的独立域名</title>
+      <link>https://jjdlawyer.com/post/vercel-domain-name/</link>
+      <pubDate>Mon, 09 Aug 2021 19:49:20 +0800</pubDate>
+      
+      <guid>https://jjdlawyer.com/post/vercel-domain-name/</guid>
+      <description>利用Vercel来绑定自已的独立域名从而在中国地区可以很好友的访问自已的GITHUB上的托管页面，网上有较多的关于如何把GITHUB上的项目同步到Vercel的教程，写的还是靠谱的。在没有使用Vercel前，我是把国内的页面托管到coding上，后来coding被腾讯云收购后就开始实行流量收费就放弃</description>
+    </item>
     
     <item>
       <title>同台设备中github和coding的ssh秘钥冲突的解决办法</title>

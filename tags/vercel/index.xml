@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金建东律师的布拉格</copyright>
-    <lastBuildDate>Wed, 04 Aug 2021 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Aug 2021 19:49:20 +0800</lastBuildDate>
     
 	<atom:link href="https://jjdlawyer.com/tags/vercel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vercel绑定自已的独立域名</title>
+      <link>https://jjdlawyer.com/post/vercel-domain-name/</link>
+      <pubDate>Mon, 09 Aug 2021 19:49:20 +0800</pubDate>
+      
+      <guid>https://jjdlawyer.com/post/vercel-domain-name/</guid>
+      <description>利用Vercel来绑定自已的独立域名从而在中国地区可以很好友的访问自已的GITHUB上的托管页面，网上有较多的关于如何把GITHUB上的项目同步到Vercel的教程，写的还是靠谱的。在没有使用Vercel前，我是把国内的页面托管到coding上，后来coding被腾讯云收购后就开始实行流量收费就放弃</description>
+    </item>
     
     <item>
       <title>Github与Vercel整合测试</title>
