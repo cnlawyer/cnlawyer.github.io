@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金建东律师的布拉格</copyright>
-    <lastBuildDate>Mon, 09 Aug 2021 19:49:20 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Aug 2021 21:47:58 +0800</lastBuildDate>
     
 	<atom:link href="https://jjdlawyer.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hugo</title>
+      <title>再审</title>
+      <link>https://jjdlawyer.com/tags/%E5%86%8D%E5%AE%A1/</link>
+      <pubDate>Tue, 10 Aug 2021 21:47:58 +0800</pubDate>
+      
+      <guid>https://jjdlawyer.com/tags/%E5%86%8D%E5%AE%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
       <link>https://jjdlawyer.com/tags/hugo/</link>
       <pubDate>Mon, 09 Aug 2021 19:49:20 +0800</pubDate>
       
@@ -180,15 +189,6 @@
       <pubDate>Thu, 12 Mar 2020 20:02:34 +0800</pubDate>
       
       <guid>https://jjdlawyer.com/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>爬虫</title>
-      <link>https://jjdlawyer.com/tags/%E7%88%AC%E8%99%AB/</link>
-      <pubDate>Thu, 12 Mar 2020 20:02:34 +0800</pubDate>
-      
-      <guid>https://jjdlawyer.com/tags/%E7%88%AC%E8%99%AB/</guid>
       <description></description>
     </item>
     

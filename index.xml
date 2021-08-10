@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金建东律师的布拉格</copyright>
-    <lastBuildDate>Mon, 09 Aug 2021 19:49:20 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Aug 2021 21:47:58 +0800</lastBuildDate>
     
         <atom:link href="https://jjdlawyer.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -339,6 +339,24 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>未经上诉而直接申请再审可直接驳回</title>
+      <link>https://jjdlawyer.com/post/bu-shang-su-shen-qing-zai-shen-ke-bo-hui/</link>
+      <pubDate>Tue, 10 Aug 2021 21:47:58 +0800</pubDate>
+      
+      <guid>https://jjdlawyer.com/post/bu-shang-su-shen-qing-zai-shen-ke-bo-hui/</guid>
+      
+        <description>&lt;p&gt;　　典型案例：（2020）最高法民申7058号&lt;/p&gt;
+&lt;p&gt;　　&lt;strong&gt;裁判要旨原文摘录：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;　　凯达公司虽主张一审判决存在错误，但在法定上诉期限内未提起上诉，亦未提供客观上导致其不能行使诉权的合理理由，其放弃法律规定的常规性救济途径，即应当承担该处分行为所致的失权后果。故二审法院以凯达公司未提起上诉为由对其不承担保证责任的主张不予审查并无不当。凯达公司未经上诉直接向本院申请再审，属于滥用再审程序的情形，故对凯达公司关于原审法院适用法律错误的主张，本院从程序上直接予以驳回。&lt;/p&gt;
+&lt;p&gt;　　凯达公司的再审申请不符合《中华人民共和国民事诉讼法》第二百条第一项、第二项、第六项、第十三项规定的情形。&lt;/p&gt;
+&lt;p&gt;　　&lt;strong&gt;认定的事实：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;　　一审法院分别向指定签收人鲁显军和陈澎邮寄送达了民事判决书，其中向鲁显军邮寄快递的收件人姓名处特别载明“鲁显军转凯隆丰公司、王艳春、凯达物流、通世新公司、张义兴、赵立丽”。两份快递单回执均显示邮件妥投、他人代收，可以认定一审法院已按当事人指示成功送达民事判决书。&lt;/p&gt;
+&lt;p&gt;　　总结：法院认定一审判决书已经送达凯达物流并且该公司也收悉，其未在上诉期限内向法院提起上诉，视为凯达物流放弃了二审诉权，此后未经二审程序而直接提起再审审请，属于对再审程序的滥用，直接为予以驳回。&lt;/p&gt;
 </description>
       
     </item>
@@ -1122,36 +1140,6 @@ $
 &lt;/div&gt;&lt;p&gt;显示Identity added: 这样的一段表示已经添加成功，然后再执行&lt;code&gt;ssh -T git@e.coding.net&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;输出此类的句子：Coding 提示: Hello 某某, You&amp;rsquo;ve connected to Coding.net via SSH. This is a personal key.&lt;/p&gt;
 &lt;p&gt;就表示已经连接了coding.net的密钥了。&lt;/p&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>未办理登记的不动产抵押合同的效力规定</title>
-      <link>https://jjdlawyer.com/post/wei-ban-li-deng-ji-de-bu-dong-chan-di-ya/</link>
-      <pubDate>Tue, 25 Feb 2020 20:10:34 +0800</pubDate>
-      
-      <guid>https://jjdlawyer.com/post/wei-ban-li-deng-ji-de-bu-dong-chan-di-ya/</guid>
-      
-        <description>&lt;h2 id=&#34;条文内容&#34;&gt;条文内容&lt;/h2&gt;
-&lt;p&gt;不动产抵押合同依法成立，但未办理抵押登记手续，债权人请求抵押人办理抵押登记手续的，人民法院依法予以支持。因抵押物灭失以及抵押物转让他人等原因不能办理抵押登记，债权人请求抵押人以抵押物的价值为限承担责任的，人民法院依法予以支持，但其范围不得超过抵押权有效设立时抵押人所应当承担的责任。&lt;/p&gt;
-&lt;h2 id=&#34;条文主旨&#34;&gt;条文主旨&lt;/h2&gt;
-&lt;p&gt;关于未办理抵押登记的不动产抵押合同的效力及抵押人应承担的责任的规定&lt;/p&gt;
-&lt;h2 id=&#34;理解与适用&#34;&gt;理解与适用&lt;/h2&gt;
-&lt;p&gt;一、不动产抵押物未进行抵押登记不影响抵押合同效力，抵押合同有效。&lt;/p&gt;
-&lt;p&gt;根据是《物权法》第15条规定的物权变动的原因行为与物权变动的&lt;!-- raw HTML omitted --&gt;区分原则&lt;!-- raw HTML omitted --&gt;。合同的效力是原因行为，而物权效力是物权变动结果，两者是相互独立的，要注意区分。&lt;/p&gt;
-&lt;p&gt;二、不动产抵押物未进行抵押登记，抵押权未设立，债权人对抵押物不享有优先受偿权。&lt;/p&gt;
-&lt;p&gt;这里要充分考虑到《物权法》第187条到189条关于抵押权设立的基本原则：不动产抵押原则上采登记要件主义，抵押权自登记时设立；而对于动产则采登记对抗主义，抵押权自抵押合同生效时设立，未登记只是不得对抗善意第三人。&lt;/p&gt;
-&lt;p&gt;三、不动产抵押合同有效，抵押人应继续办理抵押登记以及承担不能办理抵押登记情况下的损害赔偿责任。&lt;/p&gt;
-&lt;p&gt;未办理抵押登记，抵押权未设立，债权人主张享有优先受偿权的，法院不予以支持，但是登记并不影响抵押合同的效力，抵押合同有效成立后，抵押人依约负有办理抵押登记的义务，但因抵押物灭失或转让等原因致履行不能时，抵押人应当承担相应的违约责任，一般&lt;strong&gt;以抵押物的价值为限&lt;/strong&gt;赔偿债权人的损失。&lt;/p&gt;
-&lt;h2 id=&#34;实务问题&#34;&gt;实务问题&lt;/h2&gt;
-&lt;p&gt;一、抵押人承担的是补充责任还是连带责任&lt;/p&gt;
-&lt;p&gt;《民法总则》第178条的规定，除非抵押合同明确约定抵押人承担连带责任，否则，其仅在债务人不能清偿时承担补充责任且以抵押物价值为限。&lt;/p&gt;
-&lt;p&gt;二、债权人向债务人和抵押人一并提起诉讼时如何处理&lt;/p&gt;
-&lt;p&gt;补充责任对应的是抵押人享有先诉抗辩权，而连带责任对应的是不享有先诉抗辩权。纪要主张未办理登记的不动产合同的抵押人承担的是违约赔偿责任，故抵押人享有先诉抗辩权。但是，实务中，债权人经常将债务人和抵押人列为共同被告提起诉讼，纪要规定参照担保法司法解释第123条的规定，法院可以列为共同被告，但是，应当在判决书中明确在对债务人财产依法强制执行后仍不能履行债务时，由保证人承担保证责任。&lt;/p&gt;
-&lt;h2 id=&#34;典型案例&#34;&gt;典型案例&lt;/h2&gt;
-&lt;p&gt;元亨曦地公司、青岛天一公司企业借贷纠纷案【（2017）最高法民申2340号】&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;裁判要旨&lt;/strong&gt;：双方均未办理土地使用权抵押登记手续，故抵押权未设立，天一公司无权对土地使用权享有优先受偿权。但是，借贷协议和借款补充协议均合法有效的情况下，元亨曦地公司应当对天一公司的损失承担赔偿责任，法院根据双方的过错程序，在抵押物价值的1/2范围内对信恒基公司不能清偿的部分承担赔偿责任。&lt;/p&gt;
 </description>
       
     </item>
