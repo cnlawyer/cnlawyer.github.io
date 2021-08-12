@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金建东律师的布拉格</copyright>
-    <lastBuildDate>Thu, 12 Aug 2021 16:04:09 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 17:33:34 +0800</lastBuildDate>
     
 	<atom:link href="https://jjdlawyer.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>合同法</title>
+      <link>https://jjdlawyer.com/categories/%E5%90%88%E5%90%8C%E6%B3%95/</link>
+      <pubDate>Thu, 12 Aug 2021 17:33:34 +0800</pubDate>
+      
+      <guid>https://jjdlawyer.com/categories/%E5%90%88%E5%90%8C%E6%B3%95/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>执行异议之诉</title>
@@ -36,15 +45,6 @@
       <pubDate>Mon, 09 Aug 2021 19:49:20 +0800</pubDate>
       
       <guid>https://jjdlawyer.com/categories/%E7%A0%81%E5%86%9C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>合同法</title>
-      <link>https://jjdlawyer.com/categories/%E5%90%88%E5%90%8C%E6%B3%95/</link>
-      <pubDate>Sun, 08 Aug 2021 15:38:36 +0800</pubDate>
-      
-      <guid>https://jjdlawyer.com/categories/%E5%90%88%E5%90%8C%E6%B3%95/</guid>
       <description></description>
     </item>
     
