@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金建东律师的布拉格</copyright>
-    <lastBuildDate>Thu, 12 Aug 2021 17:33:34 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 11:01:14 +0800</lastBuildDate>
     
 	<atom:link href="https://jjdlawyer.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>“损害赔偿”</title>
+      <link>https://jjdlawyer.com/tags/%E6%8D%9F%E5%AE%B3%E8%B5%94%E5%81%BF/</link>
+      <pubDate>Fri, 13 Aug 2021 11:01:14 +0800</pubDate>
+      
+      <guid>https://jjdlawyer.com/tags/%E6%8D%9F%E5%AE%B3%E8%B5%94%E5%81%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>侵权责任</title>
+      <link>https://jjdlawyer.com/tags/%E4%BE%B5%E6%9D%83%E8%B4%A3%E4%BB%BB/</link>
+      <pubDate>Fri, 13 Aug 2021 11:01:14 +0800</pubDate>
+      
+      <guid>https://jjdlawyer.com/tags/%E4%BE%B5%E6%9D%83%E8%B4%A3%E4%BB%BB/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>合同法</title>
@@ -112,7 +130,7 @@
     </item>
     
     <item>
-      <title>Github</title>
+      <title>github</title>
       <link>https://jjdlawyer.com/tags/github/</link>
       <pubDate>Wed, 04 Aug 2021 16:01:23 +0800</pubDate>
       
@@ -171,24 +189,6 @@
       <pubDate>Fri, 13 Mar 2020 20:25:34 +0800</pubDate>
       
       <guid>https://jjdlawyer.com/tags/%E6%96%B0%E5%86%A0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>肺炎</title>
-      <link>https://jjdlawyer.com/tags/%E8%82%BA%E7%82%8E/</link>
-      <pubDate>Fri, 13 Mar 2020 20:25:34 +0800</pubDate>
-      
-      <guid>https://jjdlawyer.com/tags/%E8%82%BA%E7%82%8E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>法考</title>
-      <link>https://jjdlawyer.com/tags/%E6%B3%95%E8%80%83/</link>
-      <pubDate>Fri, 13 Mar 2020 20:10:34 +0800</pubDate>
-      
-      <guid>https://jjdlawyer.com/tags/%E6%B3%95%E8%80%83/</guid>
       <description></description>
     </item>
     

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金建东律师的布拉格</copyright>
-    <lastBuildDate>Thu, 12 Aug 2021 17:33:34 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 11:01:14 +0800</lastBuildDate>
     
 	<atom:link href="https://jjdlawyer.com/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       
       <guid>https://jjdlawyer.com/post/jiu-min-ji-yao/</guid>
       <description>纪要出台 《纪要》共计12部分130个问题，内容涉及公司、合同、担保、金融、破产等民商事审判的绝大部分领域，直面民商事审判中的前沿疑难争议问题，密切关注正在制定修改过程中的民法典、公司法、证券法、破产法等法律的最新动态，密切跟踪金融领域最新监管政策、民商法学最前沿理论研究成果。 关于《纪要》的适用，民二</description>
+    </item>
+    
+    <item>
+      <title>车辆撞上草原上的骆驼，骆驼饲养人是否承担赔偿责任</title>
+      <link>https://jjdlawyer.com/post/luo-tuo-si-yang-ren-cheng-dan-pei-chang-ze-ren/</link>
+      <pubDate>Fri, 13 Aug 2021 11:01:14 +0800</pubDate>
+      
+      <guid>https://jjdlawyer.com/post/luo-tuo-si-yang-ren-cheng-dan-pei-chang-ze-ren/</guid>
+      <description>案件要览 应杨某鹏的邀请，李某东驾驶小型轿车一同前往宁远镇西坡光伏电基站看朋友。返回时李某东驾车，杨某鹏乘坐在副驾驶，途中因李某东观察不周与李某文所闲散放养的骆驼相撞，造成杨某鹏受伤、三峰骆驼死亡、车辆受损。交警部门认定：李某东负本次事故的全部责任，杨某鹏无责任。 李某东驾驶的小型轿车系其本人所有，该车</description>
     </item>
     
     <item>
@@ -181,45 +190,6 @@
       
       <guid>https://jjdlawyer.com/post/wo-de-bo-ke-ji-yi/</guid>
       <description>在手提电脑也逐渐褪去主角光环的手机快餐文化时代，多少人还在坚持着个人博客或网站的维护？想说的太多，今天做下大致的记事，以备往后有时间时可以继续修改。刚开始从卡到爆的挤牙膏式的免费主机进行试水，到购买共享空间，再到购买国外的VPS，VPS又分成好几个阶段，第一阶段是安装有控制面板的程序，第二阶段是安装</description>
-    </item>
-    
-    <item>
-      <title>Hugo高亮短代码测试：Syntax Highlighting</title>
-      <link>https://jjdlawyer.com/post/syntax-highlighting/</link>
-      <pubDate>Thu, 27 Feb 2020 14:01:23 +0800</pubDate>
-      
-      <guid>https://jjdlawyer.com/post/syntax-highlighting/</guid>
-      <description>&lt;p&gt;Hugo代码高亮测试，支持多种编程语言，自动识别并触发，配合css输出，实行比较友好的代码前端输出，支持代码按行数自动显示。配置的方法是在config.toml第15行左右的下面增加如下配置进行触发，如果添加后前端没有显示，而后是背景为黑色并且没有行号的话，需要在控制里将true改为false保存刷新，然后再将false改回true即可渲染出来。
-代码如下：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;nv&#34;&gt;PygmentsCodeFences&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# Enable syntax highlighting with GitHub flavoured code fences&lt;/span&gt;
-&lt;span class=&#34;nv&#34;&gt;PygmentsUseClasses&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# Use CSS classes to format highlighted code&lt;/span&gt;
-&lt;span class=&#34;nv&#34;&gt;PygmentsCodefencesGuessSyntax&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;true&lt;/span&gt;
-&lt;span class=&#34;nv&#34;&gt;PygmentsOptions&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;linenos=table&amp;#34;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;strong&gt;以下为各种语言的代码高亮示例：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;More detail: &lt;a href=&#34;https://gohugo.io/content-management/syntax-highlighting/&#34;&gt;Syntax Highlighting | Hugo&lt;/a&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;kd&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;helloWorld&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;nx&#34;&gt;alert&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
     </item>
     
   </channel>
