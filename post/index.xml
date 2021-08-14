@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金建东律师的布拉格</copyright>
-    <lastBuildDate>Fri, 13 Aug 2021 17:42:37 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Aug 2021 20:10:06 +0800</lastBuildDate>
     
 	<atom:link href="https://jjdlawyer.com/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       
       <guid>https://jjdlawyer.com/post/jiu-min-ji-yao/</guid>
       <description>纪要出台 《纪要》共计12部分130个问题，内容涉及公司、合同、担保、金融、破产等民商事审判的绝大部分领域，直面民商事审判中的前沿疑难争议问题，密切关注正在制定修改过程中的民法典、公司法、证券法、破产法等法律的最新动态，密切跟踪金融领域最新监管政策、民商法学最前沿理论研究成果。 关于《纪要》的适用，民二</description>
+    </item>
+    
+    <item>
+      <title>执行异议和复议规定第28条中的查封是否限于本案查封</title>
+      <link>https://jjdlawyer.com/post/cha-feng-xian-yu-ben-an-cha-feng/</link>
+      <pubDate>Sat, 14 Aug 2021 20:10:06 +0800</pubDate>
+      
+      <guid>https://jjdlawyer.com/post/cha-feng-xian-yu-ben-an-cha-feng/</guid>
+      <description>实务中对于执行异议和复议规定第28条中的查封的理解分歧大多数在于针对案涉房屋进行首轮查封后，案外人与被执行人签订书面房屋买卖合同，后案涉房屋解除查封之后又被另案轮候查封，从而案外人在轮候查封强制执行中提出异议。重庆市高级人民法院(2019)渝民终239号采取的观点如下：《执行异议和复议规定》第28条</description>
     </item>
     
     <item>
@@ -181,15 +190,6 @@
       
       <guid>https://jjdlawyer.com/post/2020-xing-shi-su-song-gui-ze/</guid>
       <description>《人民检察院刑事诉讼规则》已经2019年12月2日最高人民检察院第十三届检察委员会第二十八次会议通过，现予公布，自2019年12月30日起施行。此次修订，是《规则》历经1998年、2012年两次修订后的第三次修改。 此次《规则》修改有三个特点： 一、因应形势、服务办案。转隶之后，检察机关认真落实司法责任</description>
-    </item>
-    
-    <item>
-      <title>解决HUGO：Failed to find a valid digest in the &#39;integrity&#39;</title>
-      <link>https://jjdlawyer.com/post/hugo-find-a-valid-digest-in-the-integrity/</link>
-      <pubDate>Sat, 29 Feb 2020 08:42:34 +0800</pubDate>
-      
-      <guid>https://jjdlawyer.com/post/hugo-find-a-valid-digest-in-the-integrity/</guid>
-      <description>使用hugo命令生成静态代码然后输送到github托管时，浏览器报错，我的问题是JS加载被拦截导致目录出不来 Failed to find a valid digest in the &#39;integrity&#39; attribute for resource &#39;https://xxxxx.github.io/js/main.dee43230127a73d039a734510fa896c89c3c7ce0cf0be0c7a7433f8fd69b76dc.js&#39; with computed SHA-256 integrity &#39;Y4JR9CMGMPAzXYxnSOU6lvlLcmcJILYMCaVv3Ivs4hQ=&#39;. The resource has been blocked. 这个问题把我烦的啊，二天没有搞定，google上老外各种伪技术啊能把人折腾疯，其实搞明白了，问题的解决办法是很简单的，简单到粗暴。就是本地仓库wi</description>
     </item>
     
   </channel>
