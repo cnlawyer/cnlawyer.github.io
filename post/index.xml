@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金建东律师的布拉格</copyright>
-    <lastBuildDate>Sat, 14 Aug 2021 20:10:06 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Aug 2021 09:51:36 +0800</lastBuildDate>
     
 	<atom:link href="https://jjdlawyer.com/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       
       <guid>https://jjdlawyer.com/post/jiu-min-ji-yao/</guid>
       <description>纪要出台 《纪要》共计12部分130个问题，内容涉及公司、合同、担保、金融、破产等民商事审判的绝大部分领域，直面民商事审判中的前沿疑难争议问题，密切关注正在制定修改过程中的民法典、公司法、证券法、破产法等法律的最新动态，密切跟踪金融领域最新监管政策、民商法学最前沿理论研究成果。 关于《纪要》的适用，民二</description>
+    </item>
+    
+    <item>
+      <title>2021年最高院民一庭：关于证据的19个实务问答</title>
+      <link>https://jjdlawyer.com/post/zheng-ju-shi-wu-wen-da/</link>
+      <pubDate>Sat, 21 Aug 2021 09:51:36 +0800</pubDate>
+      
+      <guid>https://jjdlawyer.com/post/zheng-ju-shi-wu-wen-da/</guid>
+      <description>【实务问题 1】审判中询问专家辅助人的意见属于证据种类的哪一种？ 答：《民事诉讼法》第六十三条第一款规定了八种证据种类，审判实践中对于专家辅助人发表的意见属于证据种类的哪一种存有争议。 主要观点有两种：一种观点是认为属于当事人陈述，另一种观点是认为属于专家证人或准用鉴定意见规定。我们认为，专家辅助人意见应</description>
     </item>
     
     <item>
@@ -181,15 +190,6 @@
       
       <guid>https://jjdlawyer.com/post/cai-pan-wen-shu-wang-pa-chong/</guid>
       <description>法律检索技能对于一名律师来说无庸质疑是考验业务素质的基本功，用python制作爬虫脚本将会在几分钟内通过执行脚本命令爬取需要的裁判文书，相对于手动检索和查看、下载等一系列操作无疑是事半功倍的。 当决心抽时间去学习也是给自己挖坑，裁判文书网的反爬措施是异常多变的，这就意味着要不断的去更新脚本代码来符合裁</description>
-    </item>
-    
-    <item>
-      <title>2020年《人民检察院刑事诉讼规则》高检规则</title>
-      <link>https://jjdlawyer.com/post/2020-xing-shi-su-song-gui-ze/</link>
-      <pubDate>Sat, 29 Feb 2020 13:30:34 +0800</pubDate>
-      
-      <guid>https://jjdlawyer.com/post/2020-xing-shi-su-song-gui-ze/</guid>
-      <description>《人民检察院刑事诉讼规则》已经2019年12月2日最高人民检察院第十三届检察委员会第二十八次会议通过，现予公布，自2019年12月30日起施行。此次修订，是《规则》历经1998年、2012年两次修订后的第三次修改。 此次《规则》修改有三个特点： 一、因应形势、服务办案。转隶之后，检察机关认真落实司法责任</description>
     </item>
     
   </channel>
