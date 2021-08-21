@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>金建东律师的布拉格</copyright>
-    <lastBuildDate>Sat, 21 Aug 2021 09:51:36 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Aug 2021 10:26:59 +0800</lastBuildDate>
     
 	<atom:link href="https://jjdlawyer.com/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,12 +22,21 @@
     </item>
     
     <item>
+      <title>职工自愿放弃社保不是公司免付经济补偿金的法定事由</title>
+      <link>https://jjdlawyer.com/post/zi-yuan-fang-qi-she-bao-jing-ji-bu-chang/</link>
+      <pubDate>Sat, 21 Aug 2021 10:26:59 +0800</pubDate>
+      
+      <guid>https://jjdlawyer.com/post/zi-yuan-fang-qi-she-bao-jing-ji-bu-chang/</guid>
+      <description>基本案情 2013年3月26日，王菊花入职北京某物业公司，双方签订了劳动合同，劳动合同中约定王菊花自愿放弃社保缴纳。 2019年11月30日，王菊花向公司邮寄送达《被迫解除劳动关系通知书》载明：本人王菊花……因你单位未依法给我缴纳社会保险（五险）（2013年3月26日至2019年11月29日），现在我依</description>
+    </item>
+    
+    <item>
       <title>2021年最高院民一庭：关于证据的19个实务问答</title>
       <link>https://jjdlawyer.com/post/zheng-ju-shi-wu-wen-da/</link>
       <pubDate>Sat, 21 Aug 2021 09:51:36 +0800</pubDate>
       
       <guid>https://jjdlawyer.com/post/zheng-ju-shi-wu-wen-da/</guid>
-      <description>【实务问题 1】审判中询问专家辅助人的意见属于证据种类的哪一种？ 答：《民事诉讼法》第六十三条第一款规定了八种证据种类，审判实践中对于专家辅助人发表的意见属于证据种类的哪一种存有争议。 主要观点有两种：一种观点是认为属于当事人陈述，另一种观点是认为属于专家证人或准用鉴定意见规定。我们认为，专家辅助人意见应</description>
+      <description>【实务问题 １】审判中询问专家辅助人的意见属于证据种类的哪一种？ 答：《民事诉讼法》第六十三条第一款规定了八种证据种类，审判实践中对于专家辅助人发表的意见属于证据种类的哪一种存有争议。 主要观点有两种：一种观点是认为属于当事人陈述，另一种观点是认为属于专家证人或准用鉴定意见规定。我们认为，专家辅助人意见应</description>
     </item>
     
     <item>
@@ -181,15 +190,6 @@
       
       <guid>https://jjdlawyer.com/post/fa-kao-li-jia-xing-zheng-fa-jing-jiang/</guid>
       <description>李佳是法大本硕博连读，比较有温度的老师，不喜欢写论文，不喜欢玩教授资格评级，喜欢摄影和满世界的浪，能浪的过李佳的也只有厚大的向高甲。2019年李佳辞去大学的职务，专职从事于法考培训，这一年指南针坑了不少学生，最后四小只去了众合。 行政法离我们的生活有点远，特别是行政复议和行政诉讼，说白了就是民同官干一</description>
-    </item>
-    
-    <item>
-      <title>使用python制作裁判文书爬虫计划</title>
-      <link>https://jjdlawyer.com/post/cai-pan-wen-shu-wang-pa-chong/</link>
-      <pubDate>Thu, 12 Mar 2020 20:02:34 +0800</pubDate>
-      
-      <guid>https://jjdlawyer.com/post/cai-pan-wen-shu-wang-pa-chong/</guid>
-      <description>法律检索技能对于一名律师来说无庸质疑是考验业务素质的基本功，用python制作爬虫脚本将会在几分钟内通过执行脚本命令爬取需要的裁判文书，相对于手动检索和查看、下载等一系列操作无疑是事半功倍的。 当决心抽时间去学习也是给自己挖坑，裁判文书网的反爬措施是异常多变的，这就意味着要不断的去更新脚本代码来符合裁</description>
     </item>
     
   </channel>

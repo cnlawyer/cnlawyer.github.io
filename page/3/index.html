@@ -64,7 +64,7 @@
 <meta property="og:description" content="律师必先在于自律，空暇时难免会拿起法律书箱研读，有很多的经典案例需要去梳理和总结，分析争点和裁判要旨，而人的自然遗忘速度又是惊人的，作笔记是克服的好方法，于是就有了建一个网络版的法学实务自习室，记录下学习的要点和总结，金建东律师的修法自习室由此而来。" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://jjdlawyer.com/" />
-<meta property="og:updated_time" content="2021-08-21T09:51:36+08:00" />
+<meta property="og:updated_time" content="2021-08-21T10:26:59+08:00" />
 <meta itemprop="name" content="金建东律师的法学自习室">
 <meta itemprop="description" content="律师必先在于自律，空暇时难免会拿起法律书箱研读，有很多的经典案例需要去梳理和总结，分析争点和裁判要旨，而人的自然遗忘速度又是惊人的，作笔记是克服的好方法，于是就有了建一个网络版的法学实务自习室，记录下学习的要点和总结，金建东律师的修法自习室由此而来。"><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="金建东律师的法学自习室"/>
@@ -292,6 +292,40 @@
     
   
   
+  
+    <article class="post bg-white">
+  <header class="post-header">
+    <h1 class="post-title">
+      
+      <a class="post-link" href="/post/git-coding-ssh-chong-tu-jie-jue/">同台设备中github和coding的ssh秘钥冲突的解决办法</a>
+    </h1>
+    
+    <div class="post-meta">
+      <time datetime="2020-03-21" class="post-time">
+        2020-03-21
+      </time>
+      <div class="post-category">
+          <a href="https://jjdlawyer.com/categories/%E7%A0%81%E5%86%9C/"> 码农 </a>
+          
+        </div>
+      
+      
+      
+    </div>
+  </header>
+  
+  <div class="post-content">
+    
+    <div class="post-summary">
+      在本地.ssh文件夹中建立好github和coding的ssh秘钥后在推代码时提示：permission denied (publickey) 这个错误时，说明github和coding的ssh发生冲突了。 github和coding的ssh秘钥的建立过程： １、先进入ssh目录 1 cd ~/.ssh ２、生成github、gitee的key，依次执行以下
+    </div>
+    <div class="read-more">
+      <a href="/post/git-coding-ssh-chong-tu-jie-jue/" class="read-more-link">阅读全文</a>
+    </div>
+    
+  </div>
+</article>
+
   
     <article class="post bg-white">
   <header class="post-header">
@@ -525,70 +559,6 @@
     </div>
     <div class="read-more">
       <a href="/post/wo-de-bo-ke-ji-yi/" class="read-more-link">阅读全文</a>
-    </div>
-    
-  </div>
-</article>
-
-  
-    <article class="post bg-white">
-  <header class="post-header">
-    <h1 class="post-title">
-      
-      <a class="post-link" href="/post/syntax-highlighting/">Hugo高亮短代码测试：Syntax Highlighting</a>
-    </h1>
-    
-    <div class="post-meta">
-      <time datetime="2020-02-27" class="post-time">
-        2020-02-27
-      </time>
-      <div class="post-category">
-          <a href="https://jjdlawyer.com/categories/%E7%A0%81%E5%86%9C/"> 码农 </a>
-          
-        </div>
-      
-      
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    
-    <div class="post-summary">
-      <p>Hugo代码高亮测试，支持多种编程语言，自动识别并触发，配合css输出，实行比较友好的代码前端输出，支持代码按行数自动显示。配置的方法是在config.toml第15行左右的下面增加如下配置进行触发，如果添加后前端没有显示，而后是背景为黑色并且没有行号的话，需要在控制里将true改为false保存刷新，然后再将false改回true即可渲染出来。
-代码如下：</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nv">PygmentsCodeFences</span> <span class="o">=</span> <span class="nb">true</span> <span class="c1"># Enable syntax highlighting with GitHub flavoured code fences</span>
-<span class="nv">PygmentsUseClasses</span> <span class="o">=</span> <span class="nb">true</span> <span class="c1"># Use CSS classes to format highlighted code</span>
-<span class="nv">PygmentsCodefencesGuessSyntax</span> <span class="o">=</span> <span class="nb">true</span>
-<span class="nv">PygmentsOptions</span> <span class="o">=</span> <span class="s2">&#34;linenos=table&#34;</span>
-</code></pre></td></tr></table>
-</div>
-</div><p><strong>以下为各种语言的代码高亮示例：</strong></p>
-<p>More detail: <a href="https://gohugo.io/content-management/syntax-highlighting/">Syntax Highlighting | Hugo</a></p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-js" data-lang="js"><span class="kd">function</span> <span class="nx">helloWorld</span> <span class="p">(</span><span class="p">)</span> <span class="p">{</span>
-  <span class="nx">alert</span><span class="p">(</span><span class="s2">&#34;Hello, World!&#34;</span><span class="p">)</span>
-<span class="p">}</span>
-</code></pre></td></tr></table>
-</div>
-</div>
-    </div>
-    <div class="read-more">
-      <a href="/post/syntax-highlighting/" class="read-more-link">阅读全文</a>
     </div>
     
   </div>
