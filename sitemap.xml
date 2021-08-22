@@ -17,21 +17,56 @@
   
   <url>
     <loc>https://jjdlawyer.com/categories/</loc>
-    <lastmod>2021-08-21T10:26:59+08:00</lastmod>
+    <lastmod>2021-08-22T20:22:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jjdlawyer.com/post/</loc>
-    <lastmod>2021-08-21T10:26:59+08:00</lastmod>
+    <lastmod>2021-08-22T20:22:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jjdlawyer.com/tags/</loc>
-    <lastmod>2021-08-21T10:26:59+08:00</lastmod>
+    <lastmod>2021-08-22T20:22:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jjdlawyer.com/tags/%E8%82%A1%E4%B8%9C%E5%87%BA%E8%B5%84/</loc>
+    <lastmod>2021-08-22T20:22:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jjdlawyer.com/categories/%E5%85%AC%E5%8F%B8%E6%B3%95/</loc>
+    <lastmod>2021-08-22T20:22:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jjdlawyer.com/tags/%E5%85%AC%E5%8F%B8%E6%B3%95/</loc>
+    <lastmod>2021-08-22T20:22:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jjdlawyer.com/post/gu-dong-wei-chu-zi-dong-shi-lian-dai/</loc>
+    <lastmod>2021-08-22T20:22:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jjdlawyer.com/</loc>
+    <lastmod>2021-08-22T20:22:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -59,13 +94,6 @@
   
   <url>
     <loc>https://jjdlawyer.com/post/zi-yuan-fang-qi-she-bao-jing-ji-bu-chang/</loc>
-    <lastmod>2021-08-21T10:26:59+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jjdlawyer.com/</loc>
     <lastmod>2021-08-21T10:26:59+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -135,14 +163,14 @@
   </url>
   
   <url>
-    <loc>https://jjdlawyer.com/tags/%E5%88%91%E4%BA%8B%E8%BE%A9%E6%8A%A4/</loc>
+    <loc>https://jjdlawyer.com/categories/%E5%88%91%E4%BA%8B%E8%BE%A9%E6%8A%A4/</loc>
     <lastmod>2021-08-13T17:42:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://jjdlawyer.com/categories/%E5%88%91%E4%BA%8B%E8%BE%A9%E6%8A%A4/</loc>
+    <loc>https://jjdlawyer.com/tags/%E5%88%91%E4%BA%8B%E8%BE%A9%E6%8A%A4/</loc>
     <lastmod>2021-08-13T17:42:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -184,14 +212,14 @@
   </url>
   
   <url>
-    <loc>https://jjdlawyer.com/categories/%E5%90%88%E5%90%8C%E6%B3%95/</loc>
+    <loc>https://jjdlawyer.com/tags/%E5%90%88%E5%90%8C%E6%B3%95/</loc>
     <lastmod>2021-08-12T17:33:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://jjdlawyer.com/tags/%E5%90%88%E5%90%8C%E6%B3%95/</loc>
+    <loc>https://jjdlawyer.com/categories/%E5%90%88%E5%90%8C%E6%B3%95/</loc>
     <lastmod>2021-08-12T17:33:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -282,14 +310,14 @@
   </url>
   
   <url>
-    <loc>https://jjdlawyer.com/tags/%E5%95%86%E5%93%81%E6%88%BF%E4%B9%B0%E5%8D%96%E5%90%88%E5%90%8C/</loc>
+    <loc>https://jjdlawyer.com/categories/%E5%95%86%E5%93%81%E6%88%BF%E4%B9%B0%E5%8D%96%E5%90%88%E5%90%8C/</loc>
     <lastmod>2021-08-05T10:48:08+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://jjdlawyer.com/categories/%E5%95%86%E5%93%81%E6%88%BF%E4%B9%B0%E5%8D%96%E5%90%88%E5%90%8C/</loc>
+    <loc>https://jjdlawyer.com/tags/%E5%95%86%E5%93%81%E6%88%BF%E4%B9%B0%E5%8D%96%E5%90%88%E5%90%8C/</loc>
     <lastmod>2021-08-05T10:48:08+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -590,14 +618,14 @@
   </url>
   
   <url>
-    <loc>https://jjdlawyer.com/categories/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
+    <loc>https://jjdlawyer.com/tags/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
     <lastmod>2020-02-25T20:10:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://jjdlawyer.com/tags/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
+    <loc>https://jjdlawyer.com/categories/%E7%89%A9%E6%9D%83%E6%B3%95/</loc>
     <lastmod>2020-02-25T20:10:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
